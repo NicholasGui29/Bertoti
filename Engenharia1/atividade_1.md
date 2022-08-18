@@ -2,7 +2,7 @@
 
 Titus Winters, Software Engineering at Google
 
-Na engenharia de software, existe a preocupação de realizar o estudo aprofundado do software, capturando sua arquitetura junto com uma linguagem de baixo nível e por conta disso, é importante haver a necessidade de planejar, verificando os riscos, prevenção de erros e acessibilidade.
+Na engenharia de software, existe a preocupação de realizar o estudo aprofundado do software, capturando sua arquitetura junto com uma linguagem de baixo nível e por conta disso, é importante haver a necessidade de planejar, verificando os riscos, prevenção de erros e acessibilidade. Como exemplo, podemos tomar a linguagem Java, que apesar de ser complexa, aproxima da linguagem do sistema, permitindo que a gente faça em diversos dispostivios, garantindo assim a sua portabilidade e por fazer integração com a Internet das Coisas, como em dispostivos inteligentes. Agora com o Python, que trata-se uma linguagem mais simples e usamos no nosso dia a dia e faz parte de varias areas.
 
 A modificação e manutenção serve para guardar as builds, criando uma estação de versões, falando o que foi consertado e adicionado. A compilação do software e a fase de testes são bastante usado nas organizações, servindo para documentar as alterações na linha de código. Nós sabemos que 80%, nós sempre estaremos corrigindo código ou documentando a mesma e 20% de situações estaremos criando algo inovador.
 
