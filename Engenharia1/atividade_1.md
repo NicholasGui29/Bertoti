@@ -10,11 +10,11 @@ A Engenharia usa materiais acadêmicos, como cálculo, programação linear e á
 
 Finalizando, devemos prestar atenção no conceito final, tendo conhecimento que a programação é um complemento da engenharia, que funciona perfeitamente sozinha e que é uma aliada na engenharia.
 
-
-
+<br>
 
 **O que é o trade-off nas escolhas que eu faço no API?**
 
+<br>
 
 A escolha esta diretamente relacionado com as tecnologias que possuem funções capazes de atender os requisitos funcionais e não funcionais. Escolho com a equipe, a tecnologia que atenda melhor a necessidade do cliente, dando preferencia na forma que o usuario deseja o funcionamento do sistema. Em troca, adquirimos experencia para aprendrmos com linguagens diferentes em cada API, sempre aplicando a metodologia ágil e asssim, desenvolvendo minhas Soft e Hard skills. Em relação a empresa e escola, ambos ganham o reconhecimento de ensino e alavancam um crescimento profissional e didático no mercado de trabalho. 
 
