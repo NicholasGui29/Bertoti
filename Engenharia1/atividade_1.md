@@ -22,7 +22,7 @@ Considero a perda como um beneficio a ser feito, pois nem todos sabem tudo e a v
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-**Story Card**
+<h2>Story Card</h2>
 
 <br>
 
