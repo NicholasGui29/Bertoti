@@ -22,10 +22,13 @@ Considero a perda como um beneficio a ser feito, pois nem todos sabem tudo e a v
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-Story Card
+<h5>Story Card</h5>
 
+<br>
 
 Loja de perfumes
+
+<br>
 
 Requisitos funcionais:
 O administrador pode cadastrar informações do produto, tais como nome, descrição, preço e validade.
@@ -36,6 +39,7 @@ O usuário pode cadastrar seus dados no site, como CPF, endereço e preferência
 O usuário pode guardar os itens em um carrinho.
 O usuário pode acompanhar o processo de compras, visualizando o relatório do andamento de quando e onde saiu o produto, se chegou e quando foi pago.
 
+<br>
 
 Requisitos não funcionais:
 Montagem de um banco de dados relacional: Projeta o modelo DER, para não haver acontecer o envio indevido de dados no banco. Após isso, necessita a configuração no serviço online para que fica disponível em..,
