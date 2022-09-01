@@ -29,19 +29,21 @@ Considero a perda como um beneficio a ser feito, pois nem todos sabem tudo e a v
 
 <ul>
   <li>O administrador pode cadastrar informações do produto, tais como nome, descrição, preço e validade.</li>
-  <ul>O administrador pode visualizar dados dos produtos registrados, como data, hora e local.</ul>
-  <ul>O administrador pode verificar o estoque, como a quantidade e a qualidade.</ul>
-  <ul>O administrador checar a empresa os procedimentos de manutenção e de segurança.</ul>
-  <ul>O usuário pode cadastrar seus dados no site, como CPF, endereço e preferências.</ul>
-  <ul>O usuário pode guardar os itens em um carrinho.</ul>
-  <ul>O usuário pode acompanhar o processo de compras, visualizando o relatório do andamento de quando e onde saiu o produto, se chegou e quando foi pago.</ul>
-</li>
+  <li>O administrador pode visualizar dados dos produtos registrados, como data, hora e local.</li>
+  <li>O administrador pode verificar o estoque, como a quantidade e a qualidade.</li>
+  <li>O administrador checar a empresa os procedimentos de manutenção e de segurança.</li>
+  <li>O usuário pode cadastrar seus dados no site, como CPF, endereço e preferências.</li>
+  <li>O usuário pode guardar os itens em um carrinho.</li>
+  <li>O usuário pode acompanhar o processo de compras, visualizando o relatório do andamento de quando e onde saiu o produto, se chegou e quando foi pago.</li>
+</ul>
 <br>
 <p><b>Requisitos não funcionais:</b></p>
 <br>
-<p>Montagem de um banco de dados relacional: Projeta o modelo DER, para não haver acontecer o envio indevido de dados no banco. Após isso, necessita a configuração no serviço online para que fica disponível na nuvem.</p>
-<p>Protocolo de segurança: O sistema precisa ficar protegido de possíveis invasões e roubos de dados, pois contém informações confidenciais sobre histórico de pagamentos, CPF, endereço previamente cadastrados.<p>
-<p>Portabilidade: Utilizar uma linguagem de baixo nível, permitindo que alteramos a configuração de um código para que seja possível rodar em diversos dispositivos diferentes.</p>
-<p>Otimização: Desenvolver um layout simples e um carrinho que guarda os strings do produto, somando os preços. Por último, com um botão de confirmação.</p>
-<p>Sistema que permita diversas formas de pagamento: O programa pode gerar formas de pagamento em boleto, por pix ou do próprio site.</p>
-<p>Acessibilidade: O sistema precisa ser de fácil acessibilidade, tornando ‘amigável’ para todo o tipo de usuário acessar.</p>
+<ul>
+  <li>Montagem de um banco de dados relacional: Projeta o modelo DER, para não haver acontecer o envio indevido de dados no banco. Após isso, necessita a configuração no serviço online para que fica disponível na nuvem.</li>
+  <li>Protocolo de segurança: O sistema precisa ficar protegido de possíveis invasões e roubos de dados, pois contém informações confidenciais sobre histórico de pagamentos, CPF, endereço previamente cadastrados.</li>
+  <li>Portabilidade: Utilizar uma linguagem de baixo nível, permitindo que alteramos a configuração de um código para que seja possível rodar em diversos dispositivos diferentes.</li>
+  <li>Otimização: Desenvolver um layout simples e um carrinho que guarda os strings do produto, somando os preços. Por último, com um botão de confirmação.</li>
+  <li>Sistema que permita diversas formas de pagamento: O programa pode gerar formas de pagamento em boleto, por pix ou do próprio site.</li>
+  <li>Acessibilidade: O sistema precisa ser de fácil acessibilidade, tornando ‘amigável’ para todo o tipo de usuário acessar.</li>
+</ul>
