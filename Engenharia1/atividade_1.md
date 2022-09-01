@@ -26,13 +26,16 @@ Considero a perda como um beneficio a ser feito, pois nem todos sabem tudo e a v
 <h2>Story Card - Loja de perfumes</h2>
 <br>
 <p><b>Requisitos funcionais:</b></p>
-<p>O administrador pode cadastrar informações do produto, tais como nome, descrição, preço e validade.</p>
-<p>O administrador pode visualizar dados dos produtos registrados, como data, hora e local.</p>
-<p>O administrador pode verificar o estoque, como a quantidade e a qualidade.</p>
-<p>O administrador checar a empresa os procedimentos de manutenção e de segurança.</p>
-<p>O usuário pode cadastrar seus dados no site, como CPF, endereço e preferências.</p>
-<p>O usuário pode guardar os itens em um carrinho.</p>
-<p>O usuário pode acompanhar o processo de compras, visualizando o relatório do andamento de quando e onde saiu o produto, se chegou e quando foi pago.</p>
+
+<li>
+  <ul>O administrador pode cadastrar informações do produto, tais como nome, descrição, preço e validade.</ul>
+  <ul>O administrador pode visualizar dados dos produtos registrados, como data, hora e local.</ul>
+  <ul>O administrador pode verificar o estoque, como a quantidade e a qualidade.</ul>
+  <ul>O administrador checar a empresa os procedimentos de manutenção e de segurança.</ul>
+  <ul>O usuário pode cadastrar seus dados no site, como CPF, endereço e preferências.</ul>
+  <ul>O usuário pode guardar os itens em um carrinho.</ul>
+  <ul>O usuário pode acompanhar o processo de compras, visualizando o relatório do andamento de quando e onde saiu o produto, se chegou e quando foi pago.</ul>
+</li>
 <br>
 <p><b>Requisitos não funcionais:</b></p>
 <br>
