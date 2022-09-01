@@ -27,8 +27,8 @@ Considero a perda como um beneficio a ser feito, pois nem todos sabem tudo e a v
 <br>
 <p><b>Requisitos funcionais:</b></p>
 
-<li>
-  <ul>O administrador pode cadastrar informações do produto, tais como nome, descrição, preço e validade.</ul>
+<ul>
+  <li>O administrador pode cadastrar informações do produto, tais como nome, descrição, preço e validade.</li>
   <ul>O administrador pode visualizar dados dos produtos registrados, como data, hora e local.</ul>
   <ul>O administrador pode verificar o estoque, como a quantidade e a qualidade.</ul>
   <ul>O administrador checar a empresa os procedimentos de manutenção e de segurança.</ul>
