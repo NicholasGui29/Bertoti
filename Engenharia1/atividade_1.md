@@ -19,3 +19,28 @@ Finalizando, devemos prestar atenção no conceito final, tendo conhecimento que
 A escolha esta diretamente relacionado com as tecnologias que possuem funções capazes de atender os requisitos funcionais e não funcionais. Escolho com a equipe, a tecnologia que atenda melhor a necessidade do cliente, dando preferencia na forma que o usuario deseja o funcionamento do sistema. Em troca, adquirimos experencia para aprendrmos com linguagens diferentes em cada API, sempre aplicando a metodologia ágil e asssim, desenvolvendo minhas Soft e Hard skills. Em relação a empresa e escola, ambos ganham o reconhecimento de ensino e alavancam um crescimento profissional e didático no mercado de trabalho. 
 
 Considero a perda como um beneficio a ser feito, pois nem todos sabem tudo e a vontade de aplicar algo diferente do usual, traz diversas dificuldades para a equipe, por isso, reconhecemos que precisamos lidar com imprevistos e que cada empresa possui uma tecnologia especifica, e claro, focar em algo que traga melhor assistencia á empresa, podendo ser comparado com a aula de Engenharia de Software, onde é melhor uma pessoa que tenha apenas uma habilidade excelente, do que uma que tenha diversos habilidades em diversos áreas, mas que o processo é mal feito e não é aplicado de forma correta nos projetos.
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Story Card
+
+
+Loja de perfumes
+
+Requisitos funcionais:
+O administrador pode cadastrar informações do produto, tais como nome, descrição, preço e validade.
+O administrador pode visualizar dados dos produtos registrados, como data, hora e local.
+O administrador pode verificar o estoque, como a quantidade e a qualidade.
+O administrador checar a empresa os procedimentos de manutenção e de segurança.
+O usuário pode cadastrar seus dados no site, como CPF, endereço e preferências.
+O usuário pode guardar os itens em um carrinho.
+O usuário pode acompanhar o processo de compras, visualizando o relatório do andamento de quando e onde saiu o produto, se chegou e quando foi pago.
+
+
+Requisitos não funcionais:
+Montagem de um banco de dados relacional: Projeta o modelo DER, para não haver acontecer o envio indevido de dados no banco. Após isso, necessita a configuração no serviço online para que fica disponível em..,
+Protocolo de segurança: O sistema precisa ficar protegido de possíveis invasões e roubos de dados, pois contém informações confidenciais sobre histórico de pagamentos, CPF, endereço previamente cadastrados.
+Portabilidade: Utilizar uma linguagem de baixo nível, permitindo que alteramos a configuração de um código para que seja possível rodar em diversos dispositivos diferentes.
+Otimização: Desenvolver um layout simples e um carrinho que guarda os strings do produto, somando os preços. Por último, com um botão de confirmação.
+Sistema que permita diversas formas de pagamento: O programa pode gerar formas de pagamento em boleto, por pix ou do próprio site.
+Acessibilidade: O sistema precisa ser de fácil acessibilidade, tornando ‘amigável’ para todo o tipo de usuário acessar.
