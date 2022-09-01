@@ -22,15 +22,15 @@ Considero a perda como um beneficio a ser feito, pois nem todos sabem tudo e a v
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-######Story Card######
+**Story Card**
 
 <br>
 
-##Loja de perfumes##
+**Loja de perfumes**
 
 <br>
 
-Requisitos funcionais:
+<p>Requisitos funcionais:</p>
 O administrador pode cadastrar informações do produto, tais como nome, descrição, preço e validade.
 O administrador pode visualizar dados dos produtos registrados, como data, hora e local.
 O administrador pode verificar o estoque, como a quantidade e a qualidade.
