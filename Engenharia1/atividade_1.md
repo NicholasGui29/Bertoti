@@ -22,11 +22,11 @@ Considero a perda como um beneficio a ser feito, pois nem todos sabem tudo e a v
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-<h5>Story Card</h5>
+######Story Card######
 
 <br>
 
-Loja de perfumes
+##Loja de perfumes##
 
 <br>
 
