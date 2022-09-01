@@ -31,20 +31,21 @@ ________________________________________________________________________________
 <br>
 
 <p>Requisitos funcionais:</p>
-O administrador pode cadastrar informações do produto, tais como nome, descrição, preço e validade.
-O administrador pode visualizar dados dos produtos registrados, como data, hora e local.
-O administrador pode verificar o estoque, como a quantidade e a qualidade.
-O administrador checar a empresa os procedimentos de manutenção e de segurança.
-O usuário pode cadastrar seus dados no site, como CPF, endereço e preferências.
-O usuário pode guardar os itens em um carrinho.
-O usuário pode acompanhar o processo de compras, visualizando o relatório do andamento de quando e onde saiu o produto, se chegou e quando foi pago.
+<p>O administrador pode cadastrar informações do produto, tais como nome, descrição, preço e validade.</p>
+<p>O administrador pode visualizar dados dos produtos registrados, como data, hora e local.</p>
+<p>O administrador pode verificar o estoque, como a quantidade e a qualidade.</p>
+<p>O administrador checar a empresa os procedimentos de manutenção e de segurança.</p>
+<p>O usuário pode cadastrar seus dados no site, como CPF, endereço e preferências.</p>
+<p>O usuário pode guardar os itens em um carrinho.</p>
+<p>O usuário pode acompanhar o processo de compras, visualizando o relatório do andamento de quando e onde saiu o produto, se chegou e quando foi pago.</p>
 
 <br>
 
-Requisitos não funcionais:
-Montagem de um banco de dados relacional: Projeta o modelo DER, para não haver acontecer o envio indevido de dados no banco. Após isso, necessita a configuração no serviço online para que fica disponível em..,
-Protocolo de segurança: O sistema precisa ficar protegido de possíveis invasões e roubos de dados, pois contém informações confidenciais sobre histórico de pagamentos, CPF, endereço previamente cadastrados.
-Portabilidade: Utilizar uma linguagem de baixo nível, permitindo que alteramos a configuração de um código para que seja possível rodar em diversos dispositivos diferentes.
-Otimização: Desenvolver um layout simples e um carrinho que guarda os strings do produto, somando os preços. Por último, com um botão de confirmação.
-Sistema que permita diversas formas de pagamento: O programa pode gerar formas de pagamento em boleto, por pix ou do próprio site.
-Acessibilidade: O sistema precisa ser de fácil acessibilidade, tornando ‘amigável’ para todo o tipo de usuário acessar.
+<p>Requisitos não funcionais:
+<br>
+<p>Montagem de um banco de dados relacional: Projeta o modelo DER, para não haver acontecer o envio indevido de dados no banco. Após isso, necessita a configuração no serviço online para que fica disponível na nuvem.</p>
+<p>Protocolo de segurança: O sistema precisa ficar protegido de possíveis invasões e roubos de dados, pois contém informações confidenciais sobre histórico de pagamentos, CPF, endereço previamente cadastrados.<p>
+<p>Portabilidade: Utilizar uma linguagem de baixo nível, permitindo que alteramos a configuração de um código para que seja possível rodar em diversos dispositivos diferentes.</p>
+<p>Otimização: Desenvolver um layout simples e um carrinho que guarda os strings do produto, somando os preços. Por último, com um botão de confirmação.</p>
+<p>Sistema que permita diversas formas de pagamento: O programa pode gerar formas de pagamento em boleto, por pix ou do próprio site.</p>
+<p>Acessibilidade: O sistema precisa ser de fácil acessibilidade, tornando ‘amigável’ para todo o tipo de usuário acessar.</p>
