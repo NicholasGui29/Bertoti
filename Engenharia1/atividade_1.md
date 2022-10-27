@@ -47,3 +47,9 @@ Considero a perda como um beneficio a ser feito, pois nem todos sabem tudo e a v
   <li>Sistema que permita diversas formas de pagamento: O programa pode gerar formas de pagamento em boleto, por pix ou do próprio site.</li>
   <li>Acessibilidade: O sistema precisa ser de fácil acessibilidade, tornando ‘amigável’ para todo o tipo de usuário acessar.</li>
 </ul>
+
+<h2>Modelo de Entidade e Relacionamento</h2>
+
+![Loja Perfume - Modelo Conceitual](https://user-images.githubusercontent.com/102360510/198272089-398b5534-1427-454a-b242-70ce97dc5a1b.png)
+
+
