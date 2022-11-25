@@ -56,5 +56,10 @@ Considero a perda como um beneficio a ser feito, pois nem todos sabem tudo e a v
 
 ![Diagrama UML - Loja de Perfume](https://user-images.githubusercontent.com/102360510/203967484-d23ee099-2084-4b00-8fbd-35b56ebd38e2.png)
 
+<h2>Exibição do projeto</h2>
+
+https://user-images.githubusercontent.com/102360510/203971591-a78ec610-bbe5-419f-8a22-a3f962b06a13.mp4
+
+
 
 
