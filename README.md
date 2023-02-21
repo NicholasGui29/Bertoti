@@ -22,7 +22,7 @@ Sites com pontos negativos de Nielsen:
 
 <center><h3>SIGA</h3></center>
 
-<img src="IHC/imagens/siga_tela.png">
+<img src="IHC/imagens/siga_tela.PNG">
 
 Trata-se do sistema online da Secretaria de Educação do Estado de São Paulo, utilizado pelos alunos para acessar informações sobre suas notas, frequência, calendário escolar, entre outras funcionalidades relacionadas à vida escolar.
 
