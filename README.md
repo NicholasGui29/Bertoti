@@ -1,3 +1,73 @@
+
+
+<h1 align="center">Interação Humano Computador</h1>
+<br><br>
+<h2>Interação Humano Computador em relação a usabilidade</h2>
+
+
+A interação humano-computador (IHC) é uma disciplina que estuda a relação entre os seres humanos e os sistemas computacionais. A usabilidade é um dos principais conceitos estudados pela IHC, e refere-se à facilidade com que os usuários conseguem utilizar um sistema para realizar tarefas específicas. A usabilidade está diretamente relacionada à satisfação do usuário, e um sistema com boa usabilidade tende a ser mais aceito e utilizado pelos usuários.
+
+O design UX (User Experience) e o design UI (User Interface) são duas abordagens diferentes dentro da IHC que visam melhorar a usabilidade dos sistemas computacionais.
+
+O design UX refere-se à experiência do usuário ao utilizar um sistema, levando em consideração suas emoções, sentimentos e expectativas. O design UI, por outro lado, é a área responsável pela criação da interface do sistema, ou seja, como o usuário interage com o sistema.
+
+A importância da IHC e do design UX/UI está em tornar os sistemas mais acessíveis e fáceis de usar pelos usuários, melhorando a experiência geral do usuário. Com uma boa usabilidade, os sistemas podem ser mais eficientes e eficazes, economizando tempo e reduzindo erros. Além disso, a usabilidade pode melhorar a produtividade e a satisfação do usuário, aumentando a aceitação e a adoção de um sistema.
+
+A abordagem de Nielsen sobre a usabilidade destaca a importância da eficácia, eficiência e satisfação do usuário ao utilizar um sistema. De acordo com Nielsen, um sistema com boa usabilidade deve ser fácil de aprender e usar, minimizar a possibilidade de erros, fornecer feedback claro e oferecer controle ao usuário. Além disso, Nielsen também enfatiza a importância da consistência, da simplicidade e da visibilidade do sistema para melhorar a usabilidade.
+
+Sites com pontos negativos de Nielsen:
+
+
+
+
+<center><h3>SIGA</h3></center>
+
+<img src="IHC/imagens/siga_tela.png">
+
+Trata-se do sistema online da Secretaria de Educação do Estado de São Paulo, utilizado pelos alunos para acessar informações sobre suas notas, frequência, calendário escolar, entre outras funcionalidades relacionadas à vida escolar.
+
+
+Consistência e padrões: algumas seções do site apresentam layout e linguagem diferentes, o que pode confundir o usuário e gerar inconsistência no uso. Como neste exemplo, para o usuário que vai acessar pela primeira vez, vai achar estranho e inconsistência o tamanho das notícias e ao lado, vai estar o menu referente ao histórico, notas, documentos, etc.
+
+<b><h3>Em andamento...</h3></b>
+<br><br>
+
+
+
+
+
+<h2>Artigo sobre a Inteligência Artificial</h2>
+
+A inteligência artificial (IA) é uma área de estudo que busca desenvolver algoritmos e sistemas capazes de realizar tarefas que requerem inteligência humana, como aprendizado, raciocínio, tomada de decisão e reconhecimento de padrões. A IA tem sido objeto de interesse e pesquisa desde o surgimento da ciência da computação, mas tem recebido atenção renovada nas últimas décadas devido ao avanço das tecnologias de processamento e armazenamento de dados.
+
+A IA é uma área multidisciplinar que combina técnicas de matemática, estatística, ciência da computação, engenharia e psicologia para criar sistemas que podem simular a inteligência humana. Existem diferentes abordagens para o desenvolvimento de sistemas de IA, incluindo redes neurais artificiais, sistemas especialistas, lógica difusa, algoritmos genéticos e aprendizado de máquina.
+
+O aprendizado de máquina é uma das abordagens mais populares e eficazes para o desenvolvimento de sistemas de IA. Ele envolve a análise de grandes quantidades de dados para identificar padrões e construir modelos estatísticos que podem ser usados para fazer previsões e tomar decisões. 
+
+
+<b><h3>Em andamento...</h3></b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><br><br><br>
+<hr>
+<br><br>
+<h1 align="center">Engenharia de Software</h1>
+<br><br>
 <h2>Atividade 01</h2>
 
 _"We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. Finally, as software engineers, we are asked to make more complex decisions with higher-stakes outcomes, often based on imprecise estimates of time and growth. Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming."_
