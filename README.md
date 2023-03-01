@@ -32,8 +32,8 @@ Consistência e padrões: algumas seções do site apresentam layout e linguagem
 
 <h3>Unifesp</h3>
 
-<img src="IHC/imagens/unifesp_telaInicio.PNG">
-<img src="IHC/imagens/unifesp_telaInicioMenu.PNG">
+<img src="IHC/imagens/unifesp_telaInicio.png">
+<img src="IHC/imagens/unifesp_telaInicioMenu.png">
 
 O site é confuso na organização dos menu e no conteúdo, apresentando um layout  que não está padronizado e o menu apresenta várias subcategorias em um menu só 
 
