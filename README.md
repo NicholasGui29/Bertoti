@@ -39,8 +39,25 @@ O site é confuso na organização dos menu e no conteúdo, apresentando um layo
 
 desobecendo também, que nem o exemplo anterior, a heurística 4 sobre Consistência e Padronização, onde fica díficil para o usuário se organizar e procurar por determinadas situações
 
+<h3>Bing</h3>
+
+É um motor de busca desenvolvido pela Microsoft, que permite aos usuários pesquisar informações na internet, imagens, vídeos, notícias, entre outros conteúdos.
+
+Correspondência entre o sistema e o mundo real: o Bing utiliza algumas palavras de busca que podem não corresponder à terminologia que os usuários esperam. Por exemplo, ele exibe resultados para "sugestões de pesquisa" em vez de "correções de ortografia".
+
+Prevenção de erros: o Bing não oferece sugestões para corrigir possíveis erros de digitação ou palavras-chave malformadas, o que pode levar a resultados irrelevantes ou nenhum resultado.
+
+Estética e design minimalista: o Bing tem uma estética minimalista que pode ser considerada monótona para alguns usuários, sem o apelo visual de outros mecanismos de busca como o Google.
+
+Comparando com o Google, o Bing tem uma interface mais simples e minimalista, que pode ser menos atraente visualmente. Além disso, o Google oferece sugestões de pesquisa e correções de erros de digitação de forma mais eficaz. Por outro lado, o Bing pode ser preferido por alguns usuários que valorizam a privacidade, pois a Microsoft (empresa responsável pelo Bing) tem políticas de privacidade mais rígidas do que o Google.
+
+Já em comparação com o DuckDuckGo, que também é conhecido por ser um mecanismo de busca mais privado, o Bing pode ser visto como menos eficaz em termos de proteção de privacidade, já que a Microsoft tem acordos com outras empresas que podem compartilhar dados de pesquisa dos usuários. Além disso, o DuckDuckGo é mais consistente em relação aos padrões de design estabelecidos e oferece sugestões de pesquisa e correções de erros de forma semelhante ao Google.
+
+
 <b><h3>Em andamento...</h3></b>
 <br><br>
+
+
 
 
 
