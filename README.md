@@ -54,6 +54,27 @@ A IA é uma área multidisciplinar que combina técnicas de matemática, estatí
 
 O aprendizado de máquina é uma das abordagens mais populares e eficazes para o desenvolvimento de sistemas de IA. Ele envolve a análise de grandes quantidades de dados para identificar padrões e construir modelos estatísticos que podem ser usados para fazer previsões e tomar decisões. 
 
+Existem vários tipos de aprendizado de máquina, incluindo aprendizado supervisionado, não supervisionado e por reforço.
+
+O aprendizado supervisionado envolve a utilização de um conjunto de dados rotulados para treinar um modelo a realizar uma determinada tarefa, como classificar imagens ou  prever preços de imóveis. 
+Exemplos:
+Reconhecimento de voz do Google: O Google utiliza o aprendizado supervisionado para melhorar seu reconhecimento de voz. O usuário fala e o algoritmo de aprendizado de máquina é capaz de aprender e identificar os padrões e a pronúncia do usuário.
+Classificação de imagens do Pinterest: O Pinterest utiliza aprendizado de máquina para classificar imagens e tornar a busca mais precisa e personalizada para os usuários.
+
+O aprendizado não supervisionado, por outro lado, envolve a análise de um conjunto de dados não rotulados para identificar padrões e estruturas subjacentes. 
+Exemplos:
+Google News: O Google News utiliza o aprendizado não supervisionado para agrupar notícias semelhantes em categorias para facilitar a leitura pelos usuários. O algoritmo é capaz de identificar padrões e temas sem a necessidade de supervisão humana.
+Análise de sentimento do Twitter: O Twitter utiliza aprendizado não supervisionado para analisar o sentimento dos usuários em relação a determinados tópicos, identificando se é positivo, negativo ou neutro.
+
+O aprendizado por reforço é uma abordagem que envolve o uso de feedback para recompensar e orientar o modelo à medida que ele aprende a realizar uma tarefa.
+Exemplos:
+Jogo de xadrez Deep Blue da IBM: O Deep Blue é um programa de computador desenvolvido pela IBM que utiliza o aprendizado por reforço para jogar xadrez. Ele é capaz de aprender com as jogadas anteriores e identificar as melhores estratégias para vencer o jogo.
+Carros autônomos da Tesla: A Tesla utiliza aprendizado por reforço para treinar seus carros autônomos. O algoritmo aprende com as ações do motorista e identifica as melhores decisões a serem tomadas em diferentes situações na estrada.
+
+Em relação a aplicação, ela possui uma ampla gama de aplicações em diversas áreas, desde a saúde até a indústria e a educação. Um exemplo de aplicação da IA é o uso de algoritmos de aprendizado de máquina para detectar doenças em imagens médicas, como raio-X e ressonância magnética. Esses algoritmos são treinados a partir de um grande número de imagens já diagnosticadas por médicos, de forma que, ao receber uma nova imagem, o algoritmo possa fazer uma análise e indicar se há indícios de alguma doença. Essa aplicação tem se mostrado muito promissora, uma vez que pode ajudar a detectar doenças de forma mais rápida e precisa, aumentando as chances de cura e salvando vidas.
+
+Outro exemplo de aplicação da IA é a utilização de chatbots em atendimento ao cliente. Os chatbots são programas de computador que simulam conversas com humanos, respondendo a perguntas e resolvendo problemas de forma automatizada. Eles podem ser programados para reconhecer o que o cliente está perguntando e fornecer uma resposta precisa e rápida, melhorando a experiência do cliente e reduzindo o tempo de espera em filas de atendimento.
+
 
 <b><h3>Em andamento...</h3></b>
 
