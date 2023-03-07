@@ -43,11 +43,15 @@ desobecendo também, que nem o exemplo anterior, a heurística 4 sobre Consistê
 
 É um motor de busca desenvolvido pela Microsoft, que permite aos usuários pesquisar informações na internet, imagens, vídeos, notícias, entre outros conteúdos.
 
-Correspondência entre o sistema e o mundo real: o Bing utiliza algumas palavras de busca que podem não corresponder à terminologia que os usuários esperam. Por exemplo, ele exibe resultados para "sugestões de pesquisa" em vez de "correções de ortografia".
+<img src="IHC/imagens/tela_bing.PNG">
 
-Prevenção de erros: o Bing não oferece sugestões para corrigir possíveis erros de digitação ou palavras-chave malformadas, o que pode levar a resultados irrelevantes ou nenhum resultado.
+<b>Correspondência entre o sistema e o mundo real:</b> o Bing utiliza algumas palavras de busca que podem não corresponder à terminologia que os usuários esperam. Por exemplo, ele exibe resultados para "sugestões de pesquisa" em vez de "correções de ortografia".
 
-Estética e design minimalista: o Bing tem uma estética minimalista que pode ser considerada monótona para alguns usuários, sem o apelo visual de outros mecanismos de busca como o Google.
+<b>Prevenção de erros:</b> o Bing não oferece sugestões para corrigir possíveis erros de digitação ou palavras-chave malformadas, o que pode levar a resultados irrelevantes ou nenhum resultado.
+
+<b>Estética e design minimalista:</b> o Bing tem uma estética minimalista que pode ser considerada monótona para alguns usuários, sem o apelo visual de outros mecanismos de busca como o Google.
+
+<img src="IHC/imagens/tela_google.PNG">
 
 Comparando com o Google, o Bing tem uma interface mais simples e minimalista, que pode ser menos atraente visualmente. Além disso, o Google oferece sugestões de pesquisa e correções de erros de digitação de forma mais eficaz. Por outro lado, o Bing pode ser preferido por alguns usuários que valorizam a privacidade, pois a Microsoft (empresa responsável pelo Bing) tem políticas de privacidade mais rígidas do que o Google.
 
