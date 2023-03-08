@@ -1,6 +1,3 @@
-<br><br><br><br><br><br><br><br>
-<hr>
-<br><br>
 <h1 align="center">Engenharia de Software</h1>
 <br><br>
 <h2>Atividade 01</h2>
