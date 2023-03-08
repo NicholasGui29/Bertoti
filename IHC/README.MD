@@ -75,15 +75,17 @@ A Inteligência Artificial (IA) é sobre uma área que busca desenvolver algorit
 
 O aprendizado de máquina é a mais utilizada para o desenvolvimento de sistemas de IA, envolvendo a análise de grandes quantidades de dados para identificar padrões e construir modelos estatísticos que podem ser usados para fazer previsões e tomar decisões. Isso, ajuda diversas empresas na hora de gerar um relatório mensal ou anual, pois evita o trabalho excessivo e longo, que os funcionários precisariam ter, e tempo, gera dinheiro.
 
-Em relação a aplicação, ela possui uma ampla gama de aplicações em diversas áreas, desde a saúde até a indústria e a educação. Um exemplo de aplicação da IA é o uso de algoritmos de aprendizado de máquina para detectar doenças em imagens médicas, como raio-X e ressonância magnética. Esses algoritmos são treinados a partir de imagens diagnosticadas por médicos, de forma que, ao receber uma nova imagem, o algoritmo possa fazer uma análise e indicar se há indícios de alguma doença, ajudando a detectar doenças de forma maisprecisa, aumentando as chances de cura e evitando o achismos dos humanos sobre determinada doença.
+Em relação a aplicação, ela possui uma ampla gama de aplicações em diversas áreas, desde a saúde até a indústria e a educação. Um exemplo de aplicação da IA é o uso de algoritmos de aprendizado de máquina para detectar doenças em imagens médicas, como raio-X e ressonância magnética. Esses algoritmos são treinados a partir de imagens diagnosticadas por médicos, de forma que, ao receber uma nova imagem, o algoritmo possa fazer uma análise e indicar se há indícios de alguma doença, ajudando a detectar doenças de forma mais precisa, aumentando as chances de cura e evitando o achismos dos humanos sobre determinada doença.
 
 Outro exemplo de aplicação da IA é a utilização de chatbots em atendimento ao cliente. Os chatbots são programas de computador que simulam conversas com humanos, respondendo a perguntas e resolvendo problemas de forma automatizada. Eles podem ser programados para reconhecer o que o cliente está perguntando e fornecer uma resposta precisa e rápida, melhorando a experiência do cliente e reduzindo o tempo de espera em filas de atendimento.
 
-Aplicação à uma área:
+<b>2. Desenvolvimento</b>
 
-Programação de Linguagem Natural -> O ato de desenvoler conversas natural se dá a possibilidade de criar padrões de conversas definidas, por exemplo, o bot aprende a cada conversa com o usuário, exemplos,
+A aplicação em especifico, que quero conversar é sobre a interação 
 
+Programação de Linguagem Natural -> O ato de desenvoler conversas naturais se dá a possibilidade de criar padrões de conversas definidas, por exemplo, o bot aprende a cada conversa com o usuário, exemplos. Os chatbots não eram tão legais, pois as conversas eram superficiais, as vezes, não respondiam de acordo com a respota.
 
+Mundo do canal Universo Programado, que desenvolve algoritmos para o IA jogar alguns jogos especificios, onde ele aprende por tentativa e erro. Inteligência Articial para treinar o jogador principial, que calcula todas as probabildades do jogador ganhar, sem enconstrar no inimigo. Um exemplo é o jogo da cobrinha, e vamos supor que exista uma matriz 20 por 20, sabendo que existe paredes em volta, e que a cobrinha precisa alimentar da maça que aparece aleatoriamente no meio da tela, e suponha que esteja em modo diferente do padrão, onde vai existir obstaculos que vão aparecendo no meio do campo, que, ao enconstar, o jogador perde e o que é o algoritmo faz é literalmente, jogar o jogo, onde vai existir pré-configurações, dando as primeiras instruções básicas do controle, onde pode se mover e quais teclas pode ser utilizado. no tempo exato errado, na próxima rodada, ele vai evitar esta mesma jogada
 <b><h3>Em andamento...</h3></b>
 
 
