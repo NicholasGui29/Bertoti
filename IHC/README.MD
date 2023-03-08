@@ -22,7 +22,7 @@ Sites com pontos negativos de Nielsen:
 
 <center><h3>SIGA</h3></center>
 
-<img src="IHC/imagens/siga_tela.PNG">
+<img src="imagens/siga_tela.PNG">
 
 Trata-se do sistema online da Secretaria de Educação do Estado de São Paulo, utilizado pelos alunos para acessar informações sobre suas notas, frequência, calendário escolar, entre outras funcionalidades relacionadas à vida escolar.
 
@@ -32,8 +32,8 @@ Consistência e padrões: algumas seções do site apresentam layout e linguagem
 
 <h3>Unifesp</h3>
 
-<img src="IHC/imagens/unifesp_telaInicio.png" style="width: 50%; height:50%;">
-<img src="IHC/imagens/unifesp_telaInicioMenu.png" style="width: 50%; height:50%; postion: absolute; align: left;">
+<img src="imagens/unifesp_telaInicio.png" style="width: 50%; height:50%;">
+<img src="imagens/unifesp_telaInicioMenu.png" style="width: 50%; height:50%; postion: absolute; align: left;">
 
 O site é confuso na organização dos menu e no conteúdo, apresentando um layout  que não está padronizado e o menu apresenta várias subcategorias em um menu só 
 
@@ -43,7 +43,7 @@ desobecendo também, que nem o exemplo anterior, a heurística 4 sobre Consistê
 
 É um motor de busca desenvolvido pela Microsoft, que permite aos usuários pesquisar informações na internet, imagens, vídeos, notícias, entre outros conteúdos.
 
-<img src="IHC/imagens/tela_bing.PNG">
+<img src="imagens/tela_bing.PNG">
 
 <b>Correspondência entre o sistema e o mundo real:</b> o Bing utiliza algumas palavras de busca que podem não corresponder à terminologia que os usuários esperam. Por exemplo, ele exibe resultados para "sugestões de pesquisa" em vez de "correções de ortografia".
 
@@ -51,7 +51,7 @@ desobecendo também, que nem o exemplo anterior, a heurística 4 sobre Consistê
 
 <b>Estética e design minimalista:</b> o Bing tem uma estética minimalista que pode ser considerada monótona para alguns usuários, sem o apelo visual de outros mecanismos de busca como o Google.
 
-<img src="IHC/imagens/tela_google.PNG">
+<img src="imagens/tela_google.PNG">
 
 Comparando com o Google, o Bing tem uma interface mais simples e minimalista, que pode ser menos atraente visualmente. Além disso, o Google oferece sugestões de pesquisa e correções de erros de digitação de forma mais eficaz. Por outro lado, o Bing pode ser preferido por alguns usuários que valorizam a privacidade, pois a Microsoft (empresa responsável pelo Bing) tem políticas de privacidade mais rígidas do que o Google.
 
