@@ -60,7 +60,7 @@ Já em comparação com o DuckDuckGo, que também é conhecido por ser um mecani
 
 <h3>E-bay</h3>
 
-<img src="imagens/tela_ebay.png">
+<img src="imagens/tela_ebay2.png">
 
 O eBay é um mercado online onde as pessoas compram e vendem itens. Comerciantes online (incluindo vendedores individuais) colocam itens à venda e permitem que os compradores participem de leilões online para comprar esses itens. Quando encontram um item que desejam, podem licitar por meio dos recursos de leilão online do eBay.
 
