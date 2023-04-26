@@ -58,8 +58,22 @@ Comparando com o Google, o Bing tem uma interface mais simples e minimalista, qu
 Já em comparação com o DuckDuckGo, que também é conhecido por ser um mecanismo de busca mais privado, o Bing pode ser visto como menos eficaz em termos de proteção de privacidade, já que a Microsoft tem acordos com outras empresas que podem compartilhar dados de pesquisa dos usuários. Além disso, o DuckDuckGo é mais consistente em relação aos padrões de design estabelecidos e oferece sugestões de pesquisa e correções de erros de forma semelhante ao Google.
 
 
+<h3>E-bay</h3>
+
+<img src="imagens/tela_ebay.png">
+
+O eBay é um mercado online onde as pessoas compram e vendem itens. Comerciantes online (incluindo vendedores individuais) colocam itens à venda e permitem que os compradores participem de leilões online para comprar esses itens. Quando encontram um item que desejam, podem licitar por meio dos recursos de leilão online do eBay.
+
+Ao comprar em um mercado online como o eBay, tomar uma decisão informada é fundamental. O eBay tenta resolver isso fornecendo um excesso de informações em suas páginas de produtos, mas, ao fazer isso, é uma sobrecarga de informações.
+
+Na captura de tela acima, você vê o nome do item, preço, condição, quantidade disponível e número já vendido, bem como informações de envio, pagamento e devolução - e isso está logo acima da dobra. Há outra seção alternada com mais descrição e informações sobre remessa e pagamentos quando você rola.
+
+O site também apresenta várias opções ao mesmo tempo. Os CTAs incentivam você a comprar o item, adicioná-lo ao carrinho ou salvá-lo na lista de observação. Mas há CTAs menores com hiperlinks convidando você a vender um item, se tiver um, ver o feedback dos compradores, verificar a garantia, aprender como obter um desconto no item, salvar este vendedor em sua lista de observação, visitar a loja, visualizar coisas semelhantes, e assim por diante.
+
 <b><h3>Em andamento...</h3></b>
 <br><br>
+
+
 
 
 
