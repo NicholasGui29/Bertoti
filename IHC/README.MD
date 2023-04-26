@@ -60,7 +60,6 @@ Já em comparação com o DuckDuckGo, que também é conhecido por ser um mecani
 
 <h3>E-bay</h3>
 
-
 O eBay é um mercado online onde as pessoas compram e vendem itens. Comerciantes online (incluindo vendedores individuais) colocam itens à venda e permitem que os compradores participem de leilões online para comprar esses itens. Quando encontram um item que desejam, podem licitar por meio dos recursos de leilão online do eBay.
 
 <img src="imagens/tela_ebay2.png">
@@ -71,7 +70,7 @@ Na captura de tela acima, você vê o nome do item, preço, condição, quantida
 
 O site também apresenta várias opções ao mesmo tempo. Os CTAs incentivam você a comprar o item, adicioná-lo ao carrinho ou salvá-lo na lista de observação. Mas há CTAs menores com hiperlinks convidando você a vender um item, se tiver um, ver o feedback dos compradores, verificar a garantia, aprender como obter um desconto no item, salvar este vendedor em sua lista de observação, visitar a loja, visualizar coisas semelhantes, e assim por diante.
 
---HEURISTICA------
+--HEURISTICA  páginas de produtos complexas------
 
 <h3>IMBDb</h3>
 
@@ -81,11 +80,10 @@ O Internet Movie Database (IMDb) é o maior e mais abrangente banco de dados de 
 
 O IMDB redesenhou muitas páginas da web, como sua página inicial, para uma experiência de usuário muito mais elegante . Mas algumas de suas páginas ainda têm o design desatualizado mostrado acima, que apresenta alguns pontos problemáticos de UX. Há pouco espaço em branco e cor, uma fonte relativamente pequena e muitos anúncios e outros conteúdos. Isso contribui para um layout desordenado e não torna mais fácil para os visitantes atingirem seu objetivo: descobrir mais sobre Scoot McNairy neste caso.
 
-
-
 Também não há uma maneira fácil de navegar na página. Digamos que você queira aprender sobre os detalhes de McNairy, por exemplo. Você não teria escolha a não ser continuar rolando - passando por suas fotos, trabalhos em destaque, créditos e vídeos relacionados - até chegar a essa seção.
 
-O problema é por conta do layout desordenado
+-----HEURISTICA O problema é por conta do layout desordenado-----
+
 <b><h3>Em andamento...</h3></b>
 <br><br>
 
