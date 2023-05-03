@@ -96,7 +96,7 @@ O site Cuponomia é um site brasileiro que reúne ofertas e cupons de descontos 
 
 <img src="imagens/tela_cuponomia.png">
 
-De primeiro momento
+De primeiro momento, existe muitos sites com o mesmo estilos e alguns, podem acaba trazendo falta de confiança em alguns usuários, entrando os seguintes heurísticas:
 
 <b>Reconhecimento em vez de lembrança:</b> Pode ser violada, já que os sites de cupons podem apresentar uma sobrecarga de informações para os usuários. Isso pode tornar difícil para os usuários lembrarem de todos os códigos de desconto e promoções que estão disponíveis no site, o que pode levar à frustração e perda de oportunidades de economia.
 
