@@ -91,6 +91,11 @@ Por exemplo, se o usuário tentar acessar uma página específica do site IMDb, 
 
 Além disso, se o layout do site não estiver organizado de forma clara e coerente, pode ser difícil para o usuário entender como as diferentes seções do site se relacionam entre si. Isso pode afetar negativamente a capacidade do usuário de navegar pelo site e localizar informações relevantes, o que pode levar a uma experiência de usuário ruim.
 
+<h3>Cuponomia</h3>
+O site Cuponomia é um site brasileiro que reúne ofertas e cupons de descontos e cashback para compras no e-commerce. A startup, criada em 2012, por Antônio Miranda e Vinícius Dornela, tem como objetivo proporcionar economia aos consumidores por meio de seu portal que reúne cupons de descontos gratuitos e ofertas. 
+
+<img src="imagens/tela_cuponomia.png">
+
 <b><h3>Em andamento...</h3></b>
 <br><br>
 
@@ -124,6 +129,8 @@ Programação de Linguagem Natural -> O ato de desenvoler conversas naturais se 
 
 Mundo do canal Universo Programado, que desenvolve algoritmos para o IA jogar alguns jogos especificios, onde ele aprende por tentativa e erro. Inteligência Articial para treinar o jogador principial, que calcula todas as probabildades do jogador ganhar, sem enconstrar no inimigo. Um exemplo é o jogo da cobrinha, e vamos supor que exista uma matriz 20 por 20, sabendo que existe paredes em volta, e que a cobrinha precisa alimentar da maça que aparece aleatoriamente no meio da tela, e suponha que esteja em modo diferente do padrão, onde vai existir obstaculos que vão aparecendo no meio do campo, que, ao encostar, o jogador perde e o que é o algoritmo faz é literalmente, jogar o jogo, onde vai existir pré-configurações, dando as primeiras instruções básicas do controle, onde pode se mover e quais teclas pode ser utilizado. Após toda a configuração, a Inteligência Artificial "joga" e entende os momentos em que o jogador encosta na parede, no obstáculo ou no próprio corpo, o jogo envia a mensagem de "game over" e nesse momento, o software deve entender que, se nesta mesma posição, no tempo exato de tempo e os controles em específicos de movimentos, ele vai perder, então na próxima rodada, ele vai evitar esta mesma jogada.
 Por que disso? Pois toda IA, deve ser treinada desde o início, pois deve saber como comportar em relação o que é certo e o que é o errado.
+
+
 
 <b><h3>Em andamento...</h3></b>
 
