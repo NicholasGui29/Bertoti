@@ -96,6 +96,14 @@ O site Cuponomia é um site brasileiro que reúne ofertas e cupons de descontos 
 
 <img src="imagens/tela_cuponomia.png">
 
+De primeiro momento
+
+<b>Reconhecimento em vez de lembrança:</b> Pode ser violada, já que os sites de cupons podem apresentar uma sobrecarga de informações para os usuários. Isso pode tornar difícil para os usuários lembrarem de todos os códigos de desconto e promoções que estão disponíveis no site, o que pode levar à frustração e perda de oportunidades de economia.
+
+<b>Avaliação e feedback do usuário:</b> Pode ser violada se os usuários tiverem dificuldade em encontrar e resgatar os cupons. Isso pode resultar em uma experiência frustrante e insatisfatória para o usuário, o que pode levar à perda de confiança e lealdade com o site.
+
+Outro ponto negativo comum em sites de cupons é o uso de códigos de desconto expirados ou inválidos. Isso pode resultar em uma experiência negativa para o usuário e reduzir a confiança do usuário no site. Para evitar isso, é importante que os sites de cupons atualizem regularmente suas promoções e códigos de desconto e removam aqueles que expiraram ou se tornaram inválidos.
+
 <b><h3>Em andamento...</h3></b>
 <br><br>
 
