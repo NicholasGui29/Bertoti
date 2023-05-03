@@ -15,7 +15,7 @@ A importância da IHC e do design UX/UI está em tornar os sistemas mais acessí
 
 A abordagem de Nielsen sobre a usabilidade destaca a importância da eficácia, eficiência e satisfação do usuário ao utilizar um sistema. De acordo com Nielsen, um sistema com boa usabilidade deve ser fácil de aprender e usar, minimizar a possibilidade de erros, fornecer feedback claro e oferecer controle ao usuário. Além disso, Nielsen também enfatiza a importância da consistência, da simplicidade e da visibilidade do sistema para melhorar a usabilidade.
 
-Sites com pontos negativos de Nielsen:
+<h3>Sites com pontos negativos de Nielsen:</h3>
 
 
 
@@ -69,7 +69,11 @@ Na captura de tela acima, você vê o nome do item, preço, condição, quantida
 
 O site também apresenta várias opções ao mesmo tempo. Os CTAs incentivam você a comprar o item, adicioná-lo ao carrinho ou salvá-lo na lista de observação. Mas há CTAs menores com hiperlinks convidando você a vender um item, se tiver um, ver o feedback dos compradores, verificar a garantia, aprender como obter um desconto no item, salvar este vendedor em sua lista de observação, visitar a loja, visualizar coisas semelhantes, e assim por diante.
 
---HEURISTICA  páginas de produtos complexas------
+<b>Flexibilidade e eficiência de uso:</b> Refere-se à capacidade do sistema de atender às necessidades de usuários com diferentes níveis de experiência e permitir que usuários experientes realizem tarefas de forma mais eficiente. Ao aplicar essa heurística ao site eBay, podemos observar um problema relacionado às páginas de produtos complexas, que pode afetar negativamente a flexibilidade e eficiência de uso do site.
+
+As páginas de produtos no eBay são frequentemente compostas por uma grande quantidade de informações, incluindo imagens, descrições, informações de pagamento e envio, avaliações de vendedores e muito mais. Para usuários experientes que estão familiarizados com o site, essa quantidade de informações pode ser útil e fornecer uma visão geral completa do produto. No entanto, para usuários novos ou com pouca experiência, a complexidade da página de produtos pode ser esmagadora e tornar difícil encontrar informações importantes ou tomar uma decisão de compra informada.
+
+Além disso, algumas páginas de produtos no eBay podem ser inconsistentes em relação ao layout e à organização das informações, o que pode confundir ainda mais os usuários. Por exemplo, as informações de envio e pagamento podem ser apresentadas em diferentes seções da página de produto, tornando difícil para o usuário encontrar todas as informações relevantes em um só lugar.
 
 <h3>IMBDb</h3>
 
