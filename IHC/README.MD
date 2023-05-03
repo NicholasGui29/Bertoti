@@ -27,7 +27,7 @@ Sites com pontos negativos de Nielsen:
 Trata-se do sistema online da Secretaria de Educação do Estado de São Paulo, utilizado pelos alunos para acessar informações sobre suas notas, frequência, calendário escolar, entre outras funcionalidades relacionadas à vida escolar.
 
 
-Consistência e padrões: algumas seções do site apresentam layout e linguagem diferentes, o que pode confundir o usuário e gerar inconsistência no uso. Como neste exemplo, para o usuário que vai acessar pela primeira vez, vai achar estranho e inconsistência o tamanho das notícias e ao lado, vai estar o menu referente ao histórico, notas, documentos, etc.
+<b>Consistência e padrões:</b> algumas seções do site apresentam layout e linguagem diferentes, o que pode confundir o usuário e gerar inconsistência no uso. Como neste exemplo, para o usuário que vai acessar pela primeira vez, vai achar estranho e inconsistência o tamanho das notícias e ao lado, vai estar o menu referente ao histórico, notas, documentos, etc.
 
 
 <h3>Unifesp</h3>
@@ -35,9 +35,8 @@ Consistência e padrões: algumas seções do site apresentam layout e linguagem
 <img src="imagens/unifesp_telaInicio.png" style="width: 50%; height:50%;">
 <img src="imagens/unifesp_telaInicioMenu.png" style="width: 50%; height:50%; postion: absolute; align: left;">
 
-O site é confuso na organização dos menu e no conteúdo, apresentando um layout  que não está padronizado e o menu apresenta várias subcategorias em um menu só 
 
-desobecendo também, que nem o exemplo anterior, a heurística 4 sobre Consistência e Padronização, onde fica díficil para o usuário se organizar e procurar por determinadas situações
+<b>Consistência e Padronização:</b> O site é confuso na organização dos menu e no conteúdo, apresentando um layout  que não está padronizado e o menu apresenta várias subcategorias em um menu só desobecendo também, que nem o exemplo anterior, a heurística 4, onde fica díficil para o usuário se organizar e procurar por determinadas situações
 
 <h3>Bing</h3>
 
@@ -82,11 +81,17 @@ O IMDB redesenhou muitas páginas da web, como sua página inicial, para uma exp
 
 Também não há uma maneira fácil de navegar na página. Digamos que você queira aprender sobre os detalhes de McNairy, por exemplo. Você não teria escolha a não ser continuar rolando - passando por suas fotos, trabalhos em destaque, créditos e vídeos relacionados - até chegar a essa seção.
 
------HEURISTICA O problema é por conta do layout desordenado-----
+<b>Avaliação e feedback do usuário:</b> que se refere à capacidade do sistema de informar ao usuário sobre o que está acontecendo e fornecer feedback sobre as ações do usuário. Ao aplicar essa heurística ao site IMDb, podemos observar um problema relacionado ao layout desordenado que pode afetar negativamente a experiência do usuário e sua capacidade de receber feedback adequado.
+
+Por exemplo, se o usuário tentar acessar uma página específica do site IMDb, mas o layout desordenado dificultar a localização dos botões de navegação ou informações relevantes, o usuário pode se sentir confuso e frustrado. Isso pode fazer com que ele se sinta incapaz de realizar a tarefa que tinha em mente, ou até mesmo abandone o site completamente.
+
+Além disso, se o layout do site não estiver organizado de forma clara e coerente, pode ser difícil para o usuário entender como as diferentes seções do site se relacionam entre si. Isso pode afetar negativamente a capacidade do usuário de navegar pelo site e localizar informações relevantes, o que pode levar a uma experiência de usuário ruim.
+
+Portanto, é importante que o site IMDb leve em consideração a heurística de "Avaliação e feedback do usuário" ao projetar seu layout, garantindo que as informações relevantes sejam apresentadas de forma clara e coerente e que o feedback seja fornecido ao usuário de forma eficaz.
+
 
 <b><h3>Em andamento...</h3></b>
 <br><br>
-
 
 
 
