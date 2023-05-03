@@ -71,7 +71,7 @@ O site também apresenta várias opções ao mesmo tempo. Os CTAs incentivam voc
 
 <b>Flexibilidade e eficiência de uso:</b> Refere-se à capacidade do sistema de atender às necessidades de usuários com diferentes níveis de experiência e permitir que usuários experientes realizem tarefas de forma mais eficiente. Ao aplicar essa heurística ao site eBay, podemos observar um problema relacionado às páginas de produtos complexas, que pode afetar negativamente a flexibilidade e eficiência de uso do site.
 
-As páginas de produtos no eBay são frequentemente compostas por uma grande quantidade de informações, incluindo imagens, descrições, informações de pagamento e envio, avaliações de vendedores e muito mais. Para usuários experientes que estão familiarizados com o site, essa quantidade de informações pode ser útil e fornecer uma visão geral completa do produto. No entanto, para usuários novos ou com pouca experiência, a complexidade da página de produtos pode ser esmagadora e tornar difícil encontrar informações importantes ou tomar uma decisão de compra informada.
+As páginas de produtos no eBay são frequentemente compostas por uma grande quantidade de informações, incluindo imagens, descrições, informações de pagamento e envio, avaliações de vendedores e muito mais. Para usuários experientes que estão familiarizados com o site, essa quantidade de informações pode ser útil e fornecer uma visão geral completa do produto, no entanto, para usuários novos ou com pouca experiência, a complexidade da página de produtos pode ser esmagadora e tornar difícil encontrar informações importantes ou tomar uma decisão de compra informada.
 
 Além disso, algumas páginas de produtos no eBay podem ser inconsistentes em relação ao layout e à organização das informações, o que pode confundir ainda mais os usuários. Por exemplo, as informações de envio e pagamento podem ser apresentadas em diferentes seções da página de produto, tornando difícil para o usuário encontrar todas as informações relevantes em um só lugar.
 
@@ -90,9 +90,6 @@ Também não há uma maneira fácil de navegar na página. Digamos que você que
 Por exemplo, se o usuário tentar acessar uma página específica do site IMDb, mas o layout desordenado dificultar a localização dos botões de navegação ou informações relevantes, o usuário pode se sentir confuso e frustrado. Isso pode fazer com que ele se sinta incapaz de realizar a tarefa que tinha em mente, ou até mesmo abandone o site completamente.
 
 Além disso, se o layout do site não estiver organizado de forma clara e coerente, pode ser difícil para o usuário entender como as diferentes seções do site se relacionam entre si. Isso pode afetar negativamente a capacidade do usuário de navegar pelo site e localizar informações relevantes, o que pode levar a uma experiência de usuário ruim.
-
-Portanto, é importante que o site IMDb leve em consideração a heurística de "Avaliação e feedback do usuário" ao projetar seu layout, garantindo que as informações relevantes sejam apresentadas de forma clara e coerente e que o feedback seja fornecido ao usuário de forma eficaz.
-
 
 <b><h3>Em andamento...</h3></b>
 <br><br>
