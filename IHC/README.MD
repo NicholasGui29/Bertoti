@@ -17,9 +17,6 @@ A abordagem de Nielsen sobre a usabilidade destaca a importância da eficácia, 
 
 <h3>Sites com pontos negativos de Nielsen:</h3>
 
-
-
-
 <center><h3>SIGA</h3></center>
 
 <img src="imagens/siga_tela.PNG">
@@ -29,6 +26,7 @@ Trata-se do sistema online da Secretaria de Educação do Estado de São Paulo, 
 
 <b>Consistência e padrões:</b> algumas seções do site apresentam layout e linguagem diferentes, o que pode confundir o usuário e gerar inconsistência no uso. Como neste exemplo, para o usuário que vai acessar pela primeira vez, vai achar estranho e inconsistência o tamanho das notícias e ao lado, vai estar o menu referente ao histórico, notas, documentos, etc.
 
+<BR><BR><BR>
 
 <h3>Unifesp</h3>
 
@@ -37,6 +35,8 @@ Trata-se do sistema online da Secretaria de Educação do Estado de São Paulo, 
 
 
 <b>Consistência e Padronização:</b> O site é confuso na organização dos menu e no conteúdo, apresentando um layout  que não está padronizado e o menu apresenta várias subcategorias em um menu só desobecendo também, que nem o exemplo anterior, a heurística 4, onde fica díficil para o usuário se organizar e procurar por determinadas situações
+
+<BR><BR><BR>
 
 <h3>Bing</h3>
 
@@ -56,6 +56,7 @@ Comparando com o Google, o Bing tem uma interface mais simples e minimalista, qu
 
 Já em comparação com o DuckDuckGo, que também é conhecido por ser um mecanismo de busca mais privado, o Bing pode ser visto como menos eficaz em termos de proteção de privacidade, já que a Microsoft tem acordos com outras empresas que podem compartilhar dados de pesquisa dos usuários. Além disso, o DuckDuckGo é mais consistente em relação aos padrões de design estabelecidos e oferece sugestões de pesquisa e correções de erros de forma semelhante ao Google.
 
+<BR><BR><BR>
 
 <h3>E-bay</h3>
 
@@ -75,6 +76,8 @@ As páginas de produtos no eBay são frequentemente compostas por uma grande qua
 
 Além disso, algumas páginas de produtos no eBay podem ser inconsistentes em relação ao layout e à organização das informações, o que pode confundir ainda mais os usuários. Por exemplo, as informações de envio e pagamento podem ser apresentadas em diferentes seções da página de produto, tornando difícil para o usuário encontrar todas as informações relevantes em um só lugar.
 
+<BR><BR><BR>
+
 <h3>IMBDb</h3>
 
 O Internet Movie Database (IMDb) é o maior e mais abrangente banco de dados de filmes da web. Ele oferece um extenso banco de dados de informações sobre filmes, programas de TV e elenco. O site foi lançado oficialmente em 1990 e agora é propriedade da Amazon.com.
@@ -91,6 +94,8 @@ Por exemplo, se o usuário tentar acessar uma página específica do site IMDb, 
 
 Além disso, se o layout do site não estiver organizado de forma clara e coerente, pode ser difícil para o usuário entender como as diferentes seções do site se relacionam entre si. Isso pode afetar negativamente a capacidade do usuário de navegar pelo site e localizar informações relevantes, o que pode levar a uma experiência de usuário ruim.
 
+<BR><BR><BR>
+
 <h3>Cuponomia</h3>
 O site Cuponomia é um site brasileiro que reúne ofertas e cupons de descontos e cashback para compras no e-commerce. A startup, criada em 2012, por Antônio Miranda e Vinícius Dornela, tem como objetivo proporcionar economia aos consumidores por meio de seu portal que reúne cupons de descontos gratuitos e ofertas. 
 
@@ -104,15 +109,17 @@ De primeiro momento, existe muitos sites com o mesmo estilos e alguns, podem aca
 
 Outro ponto negativo comum em sites de cupons é o uso de códigos de desconto expirados ou inválidos. Isso pode resultar em uma experiência negativa para o usuário e reduzir a confiança do usuário no site. Para evitar isso, é importante que os sites de cupons atualizem regularmente suas promoções e códigos de desconto e removam aqueles que expiraram ou se tornaram inválidos.
 
+<BR><BR><BR>
+
 <h3>Aliexpress</h3>
 
 AliExpress é uma plataforma chinesa que lida com vendas online de produtos de empresas chinesas. Na verdade, é um site que reúne muitos pequenos produtores que vendem itens de todos os tipos, de roupas a eletrônicos, de acessórios a artigos esportivos e muito mais.
 
-<img src="imagens/tela_aliexpress.png">
+<img src="imagens/tela_aliexpress.PNG">
 
 Ao acessar, aparenta ser um site que lembra bastante outros lojas, com bara de pesquisa, menu, categorias na parte esquerda, promoção na primeira linha, entre outros.
 
-<img src="imagens/tela_aliexpress2.png">
+<img src="imagens/tela_aliexpress2.PNG">
 
 Ao selecionar o produto, fica confuso de primeiro momento, por ser diferenciar de lojas comuns, por exemplo, Amazon, Mercado Livre, Americanas, Magazine Luiza, entre outros. 
 
