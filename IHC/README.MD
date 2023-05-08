@@ -104,6 +104,21 @@ De primeiro momento, existe muitos sites com o mesmo estilos e alguns, podem aca
 
 Outro ponto negativo comum em sites de cupons é o uso de códigos de desconto expirados ou inválidos. Isso pode resultar em uma experiência negativa para o usuário e reduzir a confiança do usuário no site. Para evitar isso, é importante que os sites de cupons atualizem regularmente suas promoções e códigos de desconto e removam aqueles que expiraram ou se tornaram inválidos.
 
+<h3>Aliexpress</h3>
+
+AliExpress é uma plataforma chinesa que lida com vendas online de produtos de empresas chinesas. Na verdade, é um site que reúne muitos pequenos produtores que vendem itens de todos os tipos, de roupas a eletrônicos, de acessórios a artigos esportivos e muito mais.
+
+<img src="imagens/tela_aliexpress.png">
+
+Ao acessar, aparenta ser um site que lembra bastante outros lojas, com bara de pesquisa, menu, categorias na parte esquerda, promoção na primeira linha, entre outros.
+
+<img src="imagens/tela_aliexpress2.png">
+
+Ao selecionar o produto, fica confuso de primeiro momento, por ser diferenciar de lojas comuns, por exemplo, Amazon, Mercado Livre, Americanas, Magazine Luiza, entre outros. 
+
+
+<b>Reconhecimento em vez de memorização:</b> Aqui entra o ponto de memorização, a grande diferença entre reconhecer e memorizar é a quantidade de dicas fornecidas para que um conhecimento seja acessado, reconhecer padrões fornece muito mais dicas do que tentar acessar memórias e neste exemplo, apesar de ter traços de lembra outros lojas, ele se difere no quesito posições e mesclas partes que ficam estranho ao primeiro momento, por exemplos, identificar a loja ou o revendedor, quais as opções e onde fica a descrição da cor ou modelo ao selecionar, verificar produtos recomendados e filtrar os comentários, já que a função de mostrar avaliações positivos/negativas ou até mesmo por recentes, não funciona tão bem.
+
 <b><h3>Em andamento...</h3></b>
 <br><br>
 
