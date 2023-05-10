@@ -176,10 +176,21 @@ Arngren.net é um site norueguês fundado em 2002 pela Arngren Electronics, que 
 
 <b>Estética e design minimalista:</b> A descrição indica que o site parece desatualizado e tem elementos desorganizados. É importante que o site tenha uma estética e design 
 
+<h3>Suzanne Collins Books</h3>
   
+É um site sobre a escritora Suzanne Marie Collins, também roteirista de ficção científica e literatura infanto-juvenil americana, conhecida pela trilogia Jogos Vorazes que virou filme sob título homônimo em 2012.
+  
+<img src="imagens/tela_suzannecollinsbooks.PNG">
+
+<b>Visibilidade do status do sistema:</b> O site pode não fornecer informações suficientes sobre seu status e suas operações em andamento. É importante que o site forneça informações claras sobre o que está acontecendo para os usuários, incluindo mensagens de erro ou de sucesso.
+  
+<b>Prevenção de sobrecarga de informação:</b> O site pode ter pouca informação, mas ainda assim pode ser difícil de entender para os usuários que procuram informações específicas. É importante que o site previna a sobrecarga de informações, organizando as informações de maneira lógica e fácil de usar.
+  
+<b>Correspondência entre o sistema e o mundo real:</b> O site pode não corresponder à realidade, com informações limitadas sobre a autora e sua obra. É importante que o site corresponda ao mundo real, com informações claras e fáceis de entender sobre a autora e suas obras.
+
+<b>Controle e liberdade do usuário:</b> O site pode não oferecer opções claras para o usuário voltar atrás ou desfazer uma ação. É importante que o site forneça aos usuários o controle e liberdade para navegar e explorar o site como desejarem.
+
 <b><h3>Em andamento...</h3></b>
-  
-  
   
 <br><br><br><br>
 <br><br>
