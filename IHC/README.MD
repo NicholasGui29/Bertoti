@@ -149,13 +149,32 @@ Este site não consta informação sobre a empresa, o que acaba sendo negativo d
 Outdated look and feel
 No introduction about the business
   
-<img src="imagens/tela_amisdubeauceron.org">
+<img src="imagens/tela_amisdubeauceron.PNG">
 
 <b>Flexibilidade e eficiência de uso:</b> O site contém muitas imagens na interface do usuário, isso pode dificultar a navegação e a busca de informações importantes. Portanto, pode haver um problema de flexibilidade e eficiência de uso, pois os usuários podem ter dificuldade em encontrar o que estão procurando.
 
 <b>Design estético e minimalismo:</b> O visual e a sensação da interface do usuário parecerem desatualizados, isso pode afetar negativamente a percepção do usuário sobre a qualidade do site. Além disso, se houver muitas imagens desatualizadas, isso pode contribuir para a falta de um design estético e minimalista.
 
 <b>Consistência e padrões:</b> Se não houver apresentação clara sobre o negócio ou os objetivos do site, isso pode ser considerado um problema de consistência e padrões. Os usuários podem ter dificuldade em entender o propósito do site e o que esperar dele, o que pode levar a uma experiência frustrante ou confusa.
+  
+<h3>arngren</h3>
+
+<img src="imagens/tela_arngren.PNG">
+
+Arngren.net é um site norueguês fundado em 2002 pela Arngren Electronics, que é usado principalmente para vender todo tipo de gadgets e eletrodomésticos estranhos. O site propõe uma coleção em massa de vários itens de veículos (por exemplo, bicicletas, scooters, bicicletas e carros) para colecionáveis eletrônicos para compra. Embora a página da Web cumpra sua tarefa de mostrar todos os seus itens comercializáveis, a interface do usuário é um caos
+  
+<img src="imagens/tela_arngren2.PNG">
+  
+<b>Consistência e padrões:</b> A descrição indica que os elementos do site parecem desorganizados, com divs empilhados uns sobre os outros e texto desalinhado quando os usuários clicam em um produto ou dão zoom. Isso pode ser um problema de consistência e padrões, pois os usuários podem esperar que as informações sejam organizadas de forma lógica e fácil de ler.
+
+<b>Reconhecimento em vez de recordação:</b> Se o site não estiver organizado de forma lógica, os usuários podem ter dificuldade em reconhecer o que estão procurando e em lembrar onde encontraram informações específicas anteriormente. Isso pode tornar a navegação do site mais desafiadora.
+
+<b>Feedback do sistema:</b> A descrição indica que as imagens estão deslocadas e malformatadas quando os usuários dão zoom ou vão para a parte de fora. Isso pode ser um problema de feedback do sistema, pois os usuários podem não receber feedback adequado sobre suas ações e podem ter dificuldade em entender como interagir com o site.
+  
+<b>Prevenção de erros:</b> O site pode ser desafiador de usar e pode levar os usuários a cometer erros, como clicar no produto errado ou não encontrar a informação que estão procurando. É importante que o site tenha medidas para prevenir erros, como a confirmação de ações importantes ou a inclusão de informações claras sobre o que cada elemento do site faz.
+
+<b>Estética e design minimalista:</b> A descrição indica que o site parece desatualizado e tem elementos desorganizados. É importante que o site tenha uma estética e design 
+
   
 <b><h3>Em andamento...</h3></b>
   
