@@ -126,13 +126,62 @@ Ao selecionar o produto, fica confuso de primeiro momento, por ser diferenciar d
 
 <b>Reconhecimento em vez de memorização:</b> Aqui entra o ponto de memorização, a grande diferença entre reconhecer e memorizar é a quantidade de dicas fornecidas para que um conhecimento seja acessado, reconhecer padrões fornece muito mais dicas do que tentar acessar memórias e neste exemplo, apesar de ter traços de lembra outros lojas, ele se difere no quesito posições e mesclas partes que ficam estranho ao primeiro momento, por exemplos, identificar a loja ou o revendedor, quais as opções e onde fica a descrição da cor ou modelo ao selecionar, verificar produtos recomendados e filtrar os comentários, já que a função de mostrar avaliações positivos/negativas ou até mesmo por recentes, não funciona tão bem.
 
+<BR><BR><BR>
+
+<h3>HackerNews</h3>
+
+  Hacker News é um site de notícias sociais com foco em ciência da computação e empreendedorismo. É administrado pelo fundo de investimento e incubadora de startups Y Combinator
+  
+<img src="imagens/tela_hackernews.PNG">
+  
+ Problemas de legibilidade
+  
+  presenta alguns problemas de legibilidade.
+
+<b>Visibilidade do status do sistema:</b> A cor pequena e suave da fonte e a falta de espaço em branco podem tornar difícil para o usuário distinguir quais itens são ações separadas. Portanto, pode haver um problema de visibilidade do status do sistema.
+
+<b>Correspondência entre o sistema e o mundo real:</b> As opções de ação são difíceis de identificar e compreender devido ao design. Isso pode indicar um problema de correspondência entre o sistema e o mundo real.
+  
+<b>Design estético e minimalismo:</b> A falta de espaço em branco, ícones e efeitos de foco podem tornar a interface do usuário menos esteticamente agradável e minimalista.
+  
 <b><h3>Em andamento...</h3></b>
+  
+  
+  
+<br><br><br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 
 
 
 
 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 
