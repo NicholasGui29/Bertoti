@@ -158,6 +158,8 @@ No introduction about the business
 
 <b>Consistência e padrões:</b> Se não houver apresentação clara sobre o negócio ou os objetivos do site, isso pode ser considerado um problema de consistência e padrões. Os usuários podem ter dificuldade em entender o propósito do site e o que esperar dele, o que pode levar a uma experiência frustrante ou confusa.
   
+<BR><BR><BR>
+
 <h3>arngren</h3>
 
 <img src="imagens/tela_arngren.PNG">
@@ -175,6 +177,8 @@ Arngren.net é um site norueguês fundado em 2002 pela Arngren Electronics, que 
 <b>Prevenção de erros:</b> O site pode ser desafiador de usar e pode levar os usuários a cometer erros, como clicar no produto errado ou não encontrar a informação que estão procurando. É importante que o site tenha medidas para prevenir erros, como a confirmação de ações importantes ou a inclusão de informações claras sobre o que cada elemento do site faz.
 
 <b>Estética e design minimalista:</b> A descrição indica que o site parece desatualizado e tem elementos desorganizados. É importante que o site tenha uma estética e design 
+  
+<BR><BR><BR>
 
 <h3>Suzanne Collins Books</h3>
   
