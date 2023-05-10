@@ -134,10 +134,6 @@ Ao selecionar o produto, fica confuso de primeiro momento, por ser diferenciar d
   
 <img src="imagens/tela_hackernews.PNG">
   
- Problemas de legibilidade
-  
-  presenta alguns problemas de legibilidade.
-
 <b>Visibilidade do status do sistema:</b> A cor pequena e suave da fonte e a falta de espaço em branco podem tornar difícil para o usuário distinguir quais itens são ações separadas. Portanto, pode haver um problema de visibilidade do status do sistema.
 
 <b>Correspondência entre o sistema e o mundo real:</b> As opções de ação são difíceis de identificar e compreender devido ao design. Isso pode indicar um problema de correspondência entre o sistema e o mundo real.
