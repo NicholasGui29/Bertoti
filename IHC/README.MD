@@ -140,6 +140,23 @@ Ao selecionar o produto, fica confuso de primeiro momento, por ser diferenciar d
   
 <b>Design estético e minimalismo:</b> A falta de espaço em branco, ícones e efeitos de foco podem tornar a interface do usuário menos esteticamente agradável e minimalista.
   
+<BR><BR><BR>
+  
+<h3>amisdubeauceron.org/</h3>
+
+Este site não consta informação sobre a empresa, o que acaba sendo negativo de primeiro momento, dando a entender que ele trata de cachorros, mas não sabe-se se é doação, caridade ou informaçãoes sobre a raça, e caso, tiver opção de doação, o site não traz confiabildiade
+  Way too many images
+Outdated look and feel
+No introduction about the business
+  
+<img src="imagens/tela_amisdubeauceron.org">
+
+<b>Flexibilidade e eficiência de uso:</b> O site contém muitas imagens na interface do usuário, isso pode dificultar a navegação e a busca de informações importantes. Portanto, pode haver um problema de flexibilidade e eficiência de uso, pois os usuários podem ter dificuldade em encontrar o que estão procurando.
+
+<b>Design estético e minimalismo:</b> O visual e a sensação da interface do usuário parecerem desatualizados, isso pode afetar negativamente a percepção do usuário sobre a qualidade do site. Além disso, se houver muitas imagens desatualizadas, isso pode contribuir para a falta de um design estético e minimalista.
+
+<b>Consistência e padrões:</b> Se não houver apresentação clara sobre o negócio ou os objetivos do site, isso pode ser considerado um problema de consistência e padrões. Os usuários podem ter dificuldade em entender o propósito do site e o que esperar dele, o que pode levar a uma experiência frustrante ou confusa.
+  
 <b><h3>Em andamento...</h3></b>
   
   
