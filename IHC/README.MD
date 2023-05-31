@@ -252,11 +252,9 @@ Arngren.net é um site norueguês fundado em 2002 pela Arngren Electronics, que 
 
 <h2>1.Entendendo a Geração Procedural</h2>
 
-
 <h2>1.1 Conceito e Definição</h2>
-
-
-<p>A geração procedural em jogos refere-se à criação automática de conteúdo dentro do jogo, utilizando algoritmos e regras para gerar elementos como cenários, níveis, objetos e histórias. Ao contrário da criação manual de conteúdo, em que os desenvolvedores criam cada elemento individualmente, a geração procedural permite que o jogo crie conteúdo de forma dinâmica, oferecendo experiências únicas a cada partida.</p>
+	
+	<p>A geração procedural em jogos refere-se à criação automática de conteúdo dentro do jogo, utilizando algoritmos e regras para gerar elementos como cenários, níveis, objetos e histórias. Ao contrário da criação manual de conteúdo, em que os desenvolvedores criam cada elemento individualmente, a geração procedural permite que o jogo crie conteúdo de forma dinâmica, oferecendo experiências únicas a cada partida.</p>
 
 <p>A geração procedural é baseada em algoritmos que são capazes de criar conteúdo de forma aleatória, porém controlada. Esses algoritmos podem ser programados para seguir regras específicas, como limites de tamanho, distribuição de elementos e restrições de jogabilidade. Dessa forma, a geração procedural permite uma ampla variedade de conteúdo, ao mesmo tempo em que garante que ele seja coerente e adequado ao jogo.</p>
 
