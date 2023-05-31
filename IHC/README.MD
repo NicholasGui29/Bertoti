@@ -450,27 +450,25 @@ Tenho outro tutorial que explica os conceitos: frequência, comprimento de onda,
 Aqui, são utilizadas várias ferramentas, um exemplo é a geração de mapas por ruídos. Inicialmente, imagina-se um mapa plano, e existe pontos espalhado por todo este mapa.
 
 <img src="imagens2/figura1.png">
- 
 Figura 1 - Mapa com pontos espalhados
 
 	Cada ponto é um bioma, que vai ser dissipando ao redor de forma aleatório, até ter o contato com outras dissipações e nisto, é criado linhas que separam cada bioma e dentro de cada ponto com sua dissipação, vai ter uma cor indicando os diferentes tipos.
 
- 
+<img src="imagens2/figura2.png">
 Figura 2 - Após a dissipação, ocorre a divisão dos biomas através de linhas
- 
+
+<img src="imagens2/figura3.png">
 Figura 3 - Mapa onde os pontos vão se dissipando
      
-
- 
+<img src="imagens2/figura4.png">
 Figura 4- Cada cor representa um bioma diferente
    
-
-   
+<img src="imagens2/figura5.png">
 Figura 5 - Divisão final dos biomas
 
-	Após isso, o ruído entrar, onde vamos ter partes escuras e pretas, que vão indica a latitude das montanhas, e aqui, são criados as paisagens e os planos do terreno, se é fundo, plano ou alto e em azul, onde vai ser gerado os lagos, rios ou oceano.
+Após isso, o ruído entrar, onde vamos ter partes escuras e pretas, que vão indica a latitude das montanhas, e aqui, são criados as paisagens e os planos do terreno, se é fundo, plano ou alto e em azul, onde vai ser gerado os lagos, rios ou oceano.
 
- 
+ <img src="imagens2/figura6.png">
 Figura 6- Ruído branco, onde escuro indica elevação e mais claro, mais fundo. Também há a presença de águas em azul
 
 	Depois disso, a geração de NPCs* (Non-player characters) e itens vão aparecer em locais estratégicos, tendo o cuidado de aparecer em lugares impossíveis ou que dificulte o acesso do player, mas no caso do jogo em especifico, é comum acontecer isso, o que torna o mesmo desafiante e divertido.
