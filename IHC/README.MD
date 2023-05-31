@@ -449,7 +449,7 @@ Tenho outro tutorial que explica os conceitos: frequência, comprimento de onda,
 	
 Aqui, são utilizadas várias ferramentas, um exemplo é a geração de mapas por ruídos. Inicialmente, imagina-se um mapa plano, e existe pontos espalhado por todo este mapa.
 
-<img src="imagens2/figura1.PNG">
+<img src="imagens2/figura1.png">
  
 Figura 1 - Mapa com pontos espalhados
 
