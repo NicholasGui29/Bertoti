@@ -398,7 +398,7 @@ Para facilitar o processo de geração, dividiremos nosso mundo em pedaços. Cad
 
 Cada pedaço é gerado separadamente. Isso nos ajudará a salvar, carregar o mundo e gerar mais partes do mundo facilmente.
 
-Fronteiras dos biomas
+<B>Fronteiras dos biomas</B>
 
 O mundo é dividido em células nos eixos x e y, cada uma de um determinado bioma. Atribuiremos a cada célula um ponto que representa seu centro.
 
