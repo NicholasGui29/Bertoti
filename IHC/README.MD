@@ -417,17 +417,14 @@ Além disso, o ruído branco pode ser combinado com outros algoritmos e técnica
 
 <b>Elevação</b>
 
-O ruído por si só é apenas um monte de números. Precisamos atribuir significado a ela. A primeira coisa que podemos pensar é fazer com que o ruído corresponda à elevação (também chamado de “mapa de altura”). Vamos pegar o ruído anterior e desenhá-lo como elevação:
+O ruído por si só é apenas um monte de números. Precisamos atribuir significado a ela. A primeira coisa que podemos pensar é fazer com que o ruído corresponda à elevação (também chamado de “mapa de altura”).
 
 elevação [y][x] = ruído(nx, ny);
 
 
 <b>Frequência</b>
 
-O ruído pode ser gerado em qualquer frequência . Eu só escolhi uma frequência até agora. Vejamos o efeito da frequência. Tente mover o controle deslizante para ver o que acontece em diferentes frequências:
-
-
-É só aumentar e diminuir o zoom. Isso não parece muito útil à primeira vista, mas é.
+O ruído pode ser gerado em qualquer frequência. 
 
 elevação[y][x] = ruído(frequência* nx,frequência* ny);
 
