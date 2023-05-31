@@ -468,11 +468,13 @@ Após isso, o ruído entrar, onde vamos ter partes escuras e pretas, que vão in
  <img src="imagens2/figura6.png">
 Figura 6- Ruído branco, onde escuro indica elevação e mais claro, mais fundo. Também há a presença de águas em azul
 
-	Depois disso, a geração de NPCs* (Non-player characters) e itens vão aparecer em locais estratégicos, tendo o cuidado de aparecer em lugares impossíveis ou que dificulte o acesso do player, mas no caso do jogo em especifico, é comum acontecer isso, o que torna o mesmo desafiante e divertido.
+Depois disso, a geração de NPCs* (Non-player characters) e itens vão aparecer em locais estratégicos, tendo o cuidado de aparecer em lugares impossíveis ou que dificulte o acesso do player, mas no caso do jogo em especifico, é comum acontecer isso, o que torna o mesmo desafiante e divertido.
+	
+	*NPC: NPC é um acrônimo que significa "personagem não-jogador". Um personagem não-jogador é um personagem em um jogo que não é controlado pela pessoa que está jogando, nem por qualquer tipo de IA. Eles geralmente não devem agir como pessoas reais.
 
-	Após isso, o mapa se torna um “3D”, criando camadas por baixo, onde vai ser gerado as cavernas e também as posições estratégicas de minérios e de ameaças também.
+Após isso, o mapa se torna um “3D”, criando camadas por baixo, onde vai ser gerado as cavernas e também as posições estratégicas de minérios e de ameaças também.
 
-	Tudo isso é randômico, até mesmo quando há a troca para outras dimensões, através de portais, onde ao entrar, esta outra dimensão é gerada com as mesmas regras ditas e a posição do portal do outro lado é randômico, pois o jogador pode sair em lugares seguros, perigosos ou até mesmo em um lugar que não há saída ou cercado por tudo.	
+Tudo isso é randômico, até mesmo quando há a troca para outras dimensões, através de portais, onde ao entrar, esta outra dimensão é gerada com as mesmas regras ditas e a posição do portal do outro lado é randômico, pois o jogador pode sair em lugares seguros, perigosos ou até mesmo em um lugar que não há saída ou cercado por tudo.	
 
 
 <h2>Conclusão</h2>
