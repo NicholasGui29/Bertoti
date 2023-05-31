@@ -262,7 +262,293 @@ Por que disso? Pois toda IA, deve ser treinada desde o início, pois deve saber 
 <b><h3>Em andamento...</h3></b>
 
 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <h1>Geração Procedural em Jogos: Explorando a Criatividade e a Diversão</h1>
 
+
+<h2>Introdução</h2>
+
+
+<p>A indústria de jogos eletrônicos tem testemunhado um avanço significativo nas últimas décadas, impulsionado pelo desenvolvimento de gráficos e jogabilidade cada vez mais sofisticados. Um dos aspectos que contribui para essa evolução é a geração procedural em jogos, uma técnica que permite a criação automática de conteúdo por meio de algoritmos e regras pré-estabelecidas. Neste artigo, iremos explorar em detalhes a geração procedural em jogos, analisando seu funcionamento, vantagens e desafios, além de examinar exemplos notáveis de jogos que utilizam essa abordagem.</p>
+
+
+<h2>1.Entendendo a Geração Procedural</h2>
+
+
+<h2>1.1 Conceito e Definição</h2>
+
+
+<p>A geração procedural em jogos refere-se à criação automática de conteúdo dentro do jogo, utilizando algoritmos e regras para gerar elementos como cenários, níveis, objetos e histórias. Ao contrário da criação manual de conteúdo, em que os desenvolvedores criam cada elemento individualmente, a geração procedural permite que o jogo crie conteúdo de forma dinâmica, oferecendo experiências únicas a cada partida.</p>
+
+<p>A geração procedural é baseada em algoritmos que são capazes de criar conteúdo de forma aleatória, porém controlada. Esses algoritmos podem ser programados para seguir regras específicas, como limites de tamanho, distribuição de elementos e restrições de jogabilidade. Dessa forma, a geração procedural permite uma ampla variedade de conteúdo, ao mesmo tempo em que garante que ele seja coerente e adequado ao jogo.</p>
+
+
+<h2>1.2 Aplicações em Jogos</h2>
+
+
+<p>A geração procedural pode ser aplicada de várias maneiras em jogos, proporcionando experiências diferentes e emocionantes. Alguns exemplos notáveis de aplicações da geração procedural incluem:</p>
+
+<p><b>Geração de níveis:</b> Em jogos de plataforma, como o Super Mario, a geração procedural é usada para criar níveis de forma automática. Isso permite que cada partida ofereça um nível único, com desafios e obstáculos variados, garantindo que o jogador nunca se canse de jogar.</p>
+
+<p><b>Geração de cenários:</b> Jogos como o Minecraft utilizam a geração procedural para criar mundos infinitos compostos por blocos. Cada vez que um jogador inicia um novo jogo, um novo mundo é gerado, proporcionando uma experiência de exploração e descoberta constante.</p>
+
+<p><b>Geração de histórias:</b> Em jogos de RPG, a geração procedural pode ser usada para criar histórias e missões de forma dinâmica. Isso permite que cada partida conte uma história única, adaptada às escolhas e ações do jogador, tornando a experiência mais imersiva e personalizada.</p>
+
+<p><b>Geração de personagens e inimigos:</b> Alguns jogos utilizam a geração procedural para criar personagens não jogáveis (NPCs) e inimigos. Isso possibilita a criação de uma variedade de personagens com características distintas, tornando o mundo do jogo mais vivo e diversificado.</p>
+
+
+<h2>2. Vantagens da Geração Procedural</h2>
+
+
+<h3>2.1 Variedade e Replayability</h3>
+
+
+Uma das principais vantagens da geração procedural em jogos é a capacidade de oferecer variedade e replayability. Com a geração procedural, cada partida se torna única, já que o conteúdo é criado de forma dinâmica. Isso significa que os jogadores podem experimentar novos desafios, cenários e histórias a cada vez que jogam, evitando a sensação de repetição e aumentando a longevidade do jogo.
+
+Além disso, a geração procedural permite que os desenvolvedores criem jogos com uma quantidade praticamente infinita de conteúdo. Em vez de criar manualmente cada nível, cenário ou missão, os algoritmos podem gerar esses elementos de forma automática, proporcionando uma variedade quase ilimitada ao jogo. Isso é especialmente benéfico em jogos de mundo aberto, onde a exploração é um elemento central da jogabilidade.
+
+
+<h3>2.2 Eficiência e Escalabilidade</h3>
+
+
+Outra vantagem da geração procedural é a eficiência e escalabilidade que ela oferece aos desenvolvedores. Criar conteúdo manualmente para um jogo pode ser um processo demorado e trabalhoso, exigindo uma equipe de desenvolvimento dedicada e recursos significativos. Com a geração procedural, parte desse trabalho é automatizado, permitindo que os desenvolvedores criem conteúdo de forma mais rápida e eficiente.
+
+Além disso, a geração procedural torna o jogo escalável, ou seja, ele pode se adaptar à escala desejada sem comprometer a qualidade. Se um jogo tem a capacidade de gerar automaticamente novos níveis, por exemplo, ele pode oferecer um número quase infinito de desafios sem a necessidade de criação manual de cada um. Isso significa que os jogos podem crescer e se expandir facilmente, atendendo às demandas dos jogadores e proporcionando uma experiência sempre fresca.
+
+
+<h3>2.3 Criatividade e Surpresa</h3>
+
+
+A geração procedural estimula a criatividade tanto dos desenvolvedores quanto dos jogadores. Para os desenvolvedores, a geração procedural oferece uma oportunidade de explorar novas ideias e experimentar diferentes combinações de elementos dentro do jogo. Eles podem criar sistemas complexos de geração procedural que resultam em conteúdo inesperado e surpreendente, oferecendo momentos memoráveis aos jogadores.
+
+Para os jogadores, a geração procedural aumenta a sensação de surpresa e descoberta. Cada partida se torna uma experiência única, na qual eles podem encontrar novos desafios, ambientes e eventos imprevistos. Isso mantém o jogo interessante e cativante, incentivando os jogadores a explorar e experimentar diferentes abordagens a cada vez que jogam.
+
+
+<h2>3. Desafios e Limitações da Geração Procedural</h2>
+
+
+<h3>3.1 Controle da Qualidade</h3>
+
+
+Um dos principais desafios da geração procedural em jogos é manter a qualidade do conteúdo gerado. Embora a geração procedural ofereça variedade e criatividade, também há o risco de gerar conteúdo que não atenda aos padrões desejados. Elementos gerados proceduralmente podem apresentar problemas como falta de coerência, bugs, dificuldades excessivas ou excesso de repetição.
+
+Para lidar com esse desafio, os desenvolvedores precisam implementar mecanismos de controle de qualidade que monitorem e avaliem o conteúdo gerado proceduralmente. Isso pode envolver a implementação de algoritmos de detecção de problemas, testes rigorosos e ajustes manuais quando necessário. Garantir que o conteúdo gerado atenda aos padrões de qualidade estabelecidos é essencial para oferecer uma experiência de jogo satisfatória aos jogadores.
+
+
+<h3>3.2 Coerência e Consistência</h3>
+
+
+Outro desafio da geração procedural é manter a coerência e consistência do conteúdo gerado. Como o conteúdo é criado de forma aleatória, há o risco de que os elementos gerados não se encaixem de forma coesa no jogo, resultando em uma sensação de aleatoriedade excessiva.
+
+Para evitar esse problema, os desenvolvedores precisam estabelecer regras e restrições claras para a geração procedural. Isso envolve definir parâmetros que garantam que o conteúdo gerado seja consistente em termos de estilo, dificuldade, distribuição de elementos e outros aspectos relevantes. Também é possível usar técnicas como algoritmos genéticos ou aprendizado de máquina para refinar e melhorar os resultados da geração procedural, garantindo que o conteúdo se encaixe de forma adequada no jogo.
+
+
+<h3>3.3 Balanceamento e Ajustes</h3>
+
+
+O balanceamento do jogo pode ser um desafio quando o conteúdo é gerado proceduralmente. Como o jogo pode criar desafios, níveis ou inimigos de forma dinâmica, é necessário garantir que a experiência de jogo seja equilibrada e justa para os jogadores.
+
+Os desenvolvedores precisam ajustar os algoritmos de geração procedural para controlar a dificuldade, a progressão do jogo e a distribuição de elementos. Isso pode envolver o estabelecimento de parâmetros que regulem a geração de conteúdo, o monitoramento dos resultados e a realização de ajustes em tempo real para garantir que o jogo ofereça uma experiência desafiadora, mas ao mesmo tempo acessível e divertida.
+
+
+<h2>4. Exemplos de Jogos que Utilizam Geração Procedural</h2>
+
+
+<h3>4.1 Super Mario</h3>
+
+
+O Super Mario é um exemplo clássico de jogo que utiliza a geração procedural para criar níveis de forma automática. Cada vez que o jogador inicia uma partida, o jogo gera um novo nível com obstáculos, inimigos e itens dispostos de maneira aleatória. Isso proporciona uma experiência única a cada jogo, mantendo a jogabilidade fresca e desafiadora.
+
+A geração procedural de níveis no Super Mario também influencia diretamente a jogabilidade. Os jogadores precisam se adaptar a novos desafios a cada partida, testar diferentes estratégias e descobrir maneiras criativas de superar os obstáculos. Isso torna o jogo mais dinâmico e estimula a criatividade dos jogadores.
+
+
+<h4>4.1.1 Características</h4>
+
+
+O jogo, por ter tiles e posições fixas, foi criado então o MarioGPT, que une justamente essa ideia, de gerar fases de forma aleatória, deixando o jogador mais interessado em jogar, já que não enfrentará os mesmos tipos de fases
+
+Utiliza o GPT2, por ser mais leve, então gerará níveis básicos, mas que mesmo assim, a precisão é ótima, pois pode gerar uma fase com muitos inimigos e poucos blocos ou com muitos blocos e poucos inimigos, com baixa ou alta elevação ou até mesmo espaço de pulo entrar dois blocos.
+
+Para o programa entender o jogo, é usado caracteres e texto especiais no Prompt de Comando, onde cada caractere é um símbolo atribuído à um elemento do jogo. É aqui que realiza toda a programação e no final, apenas converte para a fases em final. 
+
+Raramente, pode ocorrer falhas, por exemplo, ser impossível de passar em determinada parte, mas como não é comum, pode ter até a função do usuário pode editar a fase também, sendo uma combinação perfeita.
+
+
+  <h3>4.2 Minecraft</h3>
+
+
+O Minecraft é um jogo de mundo aberto que utiliza extensivamente a geração procedural para criar cenários. Seguindo várias regras para geração de terreno, o Minecraft gera seu mundo baseado em blocos em pedaços de 16 por 16 blocos. Quando um jogador entra em um novo pedaço pela primeira vez, os pedaços ao seu redor são gerados, formando montanhas, árvores, cavernas e outras características da paisagem.
+
+A geração procedural em Minecraft também estimula a criatividade dos jogadores. Eles podem usar os blocos disponíveis para construir suas próprias estruturas, encontrar aldeias e até mesmo enfrentar criaturas desafiadoras. A geração procedural torna o jogo altamente personalizável e oferece uma infinidade de possibilidades aos jogadores.
+
+
+<h4>4.2.1 Caracteristicas</h4>
+
+
+O mundo é tridimensional, discreto (composto por blocos de tamanho unitário), limitado no eixo z por 0 e 255, e ilimitado é o eixo x e y.
+
+O mundo contém biomas, cada um abrangendo grandes áreas horizontais, que definem a natureza do espaço que o bioma ocupa, além disso tudo, também contém rios, lagos e oceanos.
+
+Todo mundo é definido por uma seed (semente). A mesma seed sempre gerará o mesmo mundo.
+
+<b>Seeds</b>
+
+Quando inicia o jogo, um número aleatório de 64 bits chamado ‘Seed’ é gerado (ou escolhido pelo jogador), que é usado para criar o mundo. Ao criar um novo mundo, pode optar por criar seu próprio mundo inserindo uma semente usada pelo gerador de mundos.
+
+Se não especificar um valor de semente ao criar um novo mundo, será usado um valor de semente aleatório. Se um jogador quiser usar uma semente específica para criar um mundo específico, deve fazê-lo antes que o mundo seja criado, pois não pode ser alterado posteriormente. Sementes diferentes criarão mundos diferentes e, se usar a mesma semente, obterá sempre o mesmo resultado (pelo menos na mesma versão do Minecraft, pois os detalhes da geração do terreno mudam de versão para versão). 
+
+Se os números também fossem usados no código inicial, um algoritmo especial poderia criar impressionantes 281 trilhões de mundos diferentes. Essa diferença ocorre porque o gerador de mundo pode reconhecer apenas 4 bilhões de palavras, portanto, apenas o código-fonte do Minecraft será gerado para essas palavras. Com essas sementes, 4 bilhões de mundos teóricos podem ser criados usando apenas palavras. Uma semente está associada a um mundo específico e pode ter diferentes números para defini-la, pois as possibilidades de criação de mundos do Minecraft são quase ilimitadas.
+	
+Outros ajustes de bioma levam seu valor de repetição infinita a um nível totalmente diferente. A geração de paisagens no jogo realmente ocorre em dois níveis diferentes: uma “peça” separada e o mundo como um todo. Então, conforme você explora o mundo, novos fragmentos serão gerados ao seu redor, criando a ilusão de um mundo vasto e contínuo. Você pode ver novas terras sendo criadas conforme você se move pelo mundo.
+
+<b>Chunk</b>
+
+	No contexto de jogos, um "chunk" é uma unidade de divisão espacial usada para gerenciar o carregamento e a renderização de áreas do mundo virtual. Em vez de carregar e renderizar o mundo inteiro de uma vez, o jogo é dividido em "chunks" menores, permitindo um melhor desempenho e gerenciamento de recursos.
+
+Em termos técnicos, um "chunk" é uma região retangular tridimensional do mundo do jogo. No Minecraft, por exemplo, cada "chunk" tem uma altura fixa de 256 blocos (do leito do mar até o limite superior do mundo). Horizontalmente, cada "chunk" tem uma dimensão de 16 blocos por 16 blocos. Portanto, um "chunk" no Minecraft representa uma área de 16x256x16 blocos no mundo.
+
+Os "chunks" são carregados e descarregados dinamicamente conforme o jogador se move pelo mundo. Quando o jogador se move para uma nova área, os "chunks" próximos à posição atual do jogador são carregados na memória e são renderizados na tela. Isso permite que o jogador explore o mundo em tempo real, enquanto o jogo carrega apenas as partes necessárias.
+
+O carregamento e a descarga dos "chunks" são gerenciados pelo motor do jogo. O motor do jogo monitora a posição do jogador e determina quais "chunks" precisam ser carregados ou descarregados com base na distância do jogador em relação aos "chunks" existentes. Isso é feito de forma contínua à medida que o jogador se move pelo mundo.
+
+Além disso, os "chunks" podem conter informações adicionais, como dados de terreno, biomas, entidades (como criaturas e itens), recursos naturais, estruturas geradas proceduralmente e outras características do mundo. Essas informações são armazenadas em arquivos ou estruturas de dados para acesso eficiente durante a renderização e o gameplay.
+
+A divisão em "chunks" traz vantagens em termos de desempenho e eficiência de memória. Em vez de carregar e processar o mundo inteiro, o jogo pode se concentrar apenas nos "chunks" visíveis ou relevantes para o jogador. Isso permite que jogos com mundos vastos sejam executados em hardware limitado, evitando a sobrecarga de recursos.
+
+Em resumo, os "chunks" são unidades de divisão espacial usadas em jogos para gerenciar o carregamento, a renderização e o processamento de áreas do mundo virtual. Eles permitem um melhor desempenho, otimização de recursos e uma experiência de jogo suave enquanto o jogador explora o mundo em tempo real.
+
+<b>Mundos</b>
+
+Para facilitar o processo de geração, dividiremos nosso mundo em pedaços. Cada pedaço ocupará um espaço de 1024 × 1024 × 256 blocos.
+
+Cada pedaço é gerado separadamente. Isso nos ajudará a salvar, carregar o mundo e gerar mais partes do mundo facilmente.
+
+Fronteiras dos biomas
+
+O mundo é dividido em células nos eixos x e y, cada uma de um determinado bioma. Atribuiremos a cada célula um ponto que representa seu centro.
+
+<b>Ruído branco</b>
+
+
+O ruído branco é um conceito fundamental na geração procedural de terrenos em jogos como o Minecraft. O ruído branco é uma forma de ruído aleatório que possui igual intensidade em todas as frequências. Ele é chamado de "branco" porque, assim como a luz branca, contém uma mistura de todas as frequências possíveis.
+
+No contexto da geração de terrenos, o ruído branco é usado para criar variações e imperfeições nos elementos do ambiente, como elevações, relevos e texturas. Ele adiciona detalhes e realismo aos cenários gerados, tornando-os visualmente interessantes e mais naturais.
+
+O ruído branco é gerado por algoritmos matemáticos que produzem valores aleatórios distribuídos uniformemente. Esses valores são aplicados a coordenadas espaciais para determinar a altura e outros atributos do terreno em cada ponto. Ao adicionar o ruído branco à geração procedural, é possível obter uma aparência orgânica e variada, simulando a complexidade dos ambientes naturais.
+
+Os algoritmos de ruído branco podem ser ajustados para controlar a escala e a intensidade das variações geradas. Isso permite aos desenvolvedores de jogos ajustar a aparência do terreno de acordo com as necessidades do jogo, criando desde paisagens suaves e suavemente onduladas até terrenos acidentados e montanhosos.
+
+Além disso, o ruído branco pode ser combinado com outros algoritmos e técnicas de geração procedural, como a interpolação de valores entre pontos vizinhos, para criar transições suaves entre diferentes biomas e características do terreno. Essas combinações permitem a criação de paisagens mais complexas e diversificadas, ampliando as possibilidades de exploração e interação dos jogadores.
+
+<b>Elevação</b>
+
+O ruído por si só é apenas um monte de números. Precisamos atribuir significado a ela. A primeira coisa que podemos pensar é fazer com que o ruído corresponda à elevação (também chamado de “mapa de altura”). Vamos pegar o ruído anterior e desenhá-lo como elevação:
+
+elevação [y][x] = ruído(nx, ny);
+
+
+<b>Frequência</b>
+
+O ruído pode ser gerado em qualquer frequência . Eu só escolhi uma frequência até agora. Vejamos o efeito da frequência. Tente mover o controle deslizante para ver o que acontece em diferentes frequências:
+
+
+É só aumentar e diminuir o zoom. Isso não parece muito útil à primeira vista, mas é.
+
+elevação[y][x] = ruído(frequência* nx,frequência* ny);
+
+Às vezes é útil pensar no comprimento de onda, que é o inverso da frequência. A frequência é medida em oscilações por distância. Dobrar a frequência deixa tudo com metade do tamanho. O comprimento de onda é medido em distância por oscilação, medido em pixels ou ladrilhos ou metros, etc. Dobrar o comprimento de onda faz com que tudo tenha o dobro do tamanho. O comprimento de onda está relacionado com a frequência:
+
+wavelength = map_size / frequency.
+
+
+elevação[y][x] = ruído(x / comprimento de onda , y / comprimento de onda );
+
+Tenho outro tutorial que explica os conceitos: frequência, comprimento de onda, amplitude, oitavas, ruído rosa e azul e branco, etc.
+
+
+<h4>4.2.2 Algoritmos</h4>
+
+	
+Aqui, são utilizadas várias ferramentas, um exemplo é a geração de mapas por ruídos. Inicialmente, imagina-se um mapa plano, e existe pontos espalhado por todo este mapa.
+
+ 
+Figura 1 - Mapa com pontos espalhados
+
+	Cada ponto é um bioma, que vai ser dissipando ao redor de forma aleatório, até ter o contato com outras dissipações e nisto, é criado linhas que separam cada bioma e dentro de cada ponto com sua dissipação, vai ter uma cor indicando os diferentes tipos.
+
+ 
+Figura 2 - Após a dissipação, ocorre a divisão dos biomas através de linhas
+ 
+Figura 3 - Mapa onde os pontos vão se dissipando
+     
+
+ 
+Figura 4- Cada cor representa um bioma diferente
+   
+
+   
+Figura 5 - Divisão final dos biomas
+
+	Após isso, o ruído entrar, onde vamos ter partes escuras e pretas, que vão indica a latitude das montanhas, e aqui, são criados as paisagens e os planos do terreno, se é fundo, plano ou alto e em azul, onde vai ser gerado os lagos, rios ou oceano.
+
+ 
+Figura 6- Ruído branco, onde escuro indica elevação e mais claro, mais fundo. Também há a presença de águas em azul
+
+	Depois disso, a geração de NPCs* (Non-player characters) e itens vão aparecer em locais estratégicos, tendo o cuidado de aparecer em lugares impossíveis ou que dificulte o acesso do player, mas no caso do jogo em especifico, é comum acontecer isso, o que torna o mesmo desafiante e divertido.
+
+	Após isso, o mapa se torna um “3D”, criando camadas por baixo, onde vai ser gerado as cavernas e também as posições estratégicas de minérios e de ameaças também.
+
+	Tudo isso é randômico, até mesmo quando há a troca para outras dimensões, através de portais, onde ao entrar, esta outra dimensão é gerada com as mesmas regras ditas e a posição do portal do outro lado é randômico, pois o jogador pode sair em lugares seguros, perigosos ou até mesmo em um lugar que não há saída ou cercado por tudo.	
+
+
+<h2>Conclusão</h2>
+
+
+A geração procedural em jogos oferece uma série de benefícios, como variedade, replayability, eficiência e criatividade. Ela permite que os jogos ofereçam experiências únicas a cada partida, evitando a sensação de repetição e aumentando a longevidade do jogo, e além disso, torna o desenvolvimento de jogos mais eficiente e escalável, permitindo que os jogos sejam expandidos facilmente.
+
+Também apresenta desafios, como o controle da qualidade, a manutenção da coerência e consistência, e o balanceamento do jogo. Os desenvolvedores precisam implementar mecanismos de controle e ajustes para garantir que o conteúdo gerado atenda aos padrões desejados e ofereça uma experiência de jogo equilibrada e divertida.
+
+Apesar dos desafios, esta tecnologia em jogos continua a evoluir e a ser aplicada em uma variedade de gêneros e estilos de jogos. Com o avanço da tecnologia e o refinamento dos algoritmos, podemos esperar experiências ainda mais emocionantes e imprevisíveis proporcionadas pela geração procedural nos jogos do futuro.
+
+<h2>Referência Bibliográfica:</2>
+
+BARTHET, Matthew, LIAPIS Antonios e N. YANNAKAKIS Georgios. <b>"Open-Ended Evolution for Minecraft Building Generation."</b> ArXiv Preprint arXiv:2104.08890 (2022). Disponível em: https://arxiv.org/abs/2209.03108
+
+SUDHAKARAN, Shyam, Miguel González-Duque, Claire Glanois, Matthias Freiberger, Elias Najarro, e Sebastian Risi. <b>"MarioGPT: Open-Ended Text2Level Generation through Large Language Models."</b> ArXiv Preprint arXiv:2302.05981 (2023). Disponível em: https://arxiv.org/abs/2302.05981
+
+PYARELAL, Adarsh, BANERJEE Aditya, e BARNARD, Kobus. <b>"Modular Procedural Generation for Voxel Maps."</b> ArXiv Preprint arXiv:2104.08890 (2021). Disponível em: https://arxiv.org/abs/2104.08890
+
+BLOB GAMES, Red. <b>"Making maps with noise functions."</b> Disponível em: https://www.redblobgames.com/maps/terrain-from-noise/
+
+BILAL, Himite. <b>"Replicating Minecraft World Generation in Python: Using Voronoi diagrams and a lot of Perlin/Simplex noise."</b> Towards Data Science, 17 de novembro de 2021. Disponível em: https://towardsdatascience.com/replicating-minecraft-world-generation-in-python-1b491bc9b9a4
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 
