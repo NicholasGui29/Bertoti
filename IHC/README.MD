@@ -230,41 +230,6 @@ Arngren.net é um site norueguês fundado em 2002 pela Arngren Electronics, que 
   
   
   
-
-
-
-
-
-
-<h2>Artigo sobre a Inteligência Artificial</h2>
-
-<b>1. Introdução</b>
-
-A Inteligência Artificial (IA) é sobre uma área que busca desenvolver algoritmos e sistemas capazes de realizar tarefas que requerem inteligência humana, como aprendizado, raciocínio, tomada de decisão e reconhecimento de padrões e a mesma, tem recebido atenção renovada nas últimas décadas devido ao avanço das tecnologias de processamento e armazenamento de dados. Por se tratar de umna área multidisciplinar, que combina técnicas de matemática, estatística, ciência da computação, engenharia e psicologia para criar sistemas que podem simular a inteligência humana, fazendo diversos abordagens para o desenvolvimento de sistemas de IA, incluindo redes neurais artificiais, sistemas especialistas e aprendizado de máquina.-
-
-O aprendizado de máquina é a mais utilizada para o desenvolvimento de sistemas de IA, envolvendo a análise de grandes quantidades de dados para identificar padrões e construir modelos estatísticos que podem ser usados para fazer previsões e tomar decisões. Isso, ajuda diversas empresas na hora de gerar um relatório mensal ou anual, pois evita o trabalho excessivo e longo, que os funcionários precisariam ter, e tempo, gera dinheiro.
-
-Em relação a aplicação, ela possui uma ampla gama de aplicações em diversas áreas, desde a saúde até a indústria e a educação. Um exemplo de aplicação da IA é o uso de algoritmos de aprendizado de máquina para detectar doenças em imagens médicas, como raio-X e ressonância magnética. Esses algoritmos são treinados a partir de imagens diagnosticadas por médicos, de forma que, ao receber uma nova imagem, o algoritmo possa fazer uma análise e indicar se há indícios de alguma doença, ajudando a detectar doenças de forma mais precisa, aumentando as chances de cura e evitando o achismos dos humanos sobre determinada doença.
-
-Outro exemplo de aplicação da IA é a utilização de chatbots em atendimento ao cliente. Os chatbots são programas de computador que simulam conversas com humanos, respondendo a perguntas e resolvendo problemas de forma automatizada. Eles podem ser programados para reconhecer o que o cliente está perguntando e fornecer uma resposta precisa e rápida, melhorando a experiência do cliente e reduzindo o tempo de espera em filas de atendimento.
-
-<b>2. Desenvolvimento</b>
-
-A aplicação em especifico, que quero conversar é sobre a interação 
-
-Programação de Linguagem Natural -> O ato de desenvoler conversas naturais se dá a possibilidade de criar padrões de conversas definidas, por exemplo, o bot aprende a cada conversa com o usuário, exemplos. Os chatbots não eram tão legais, pois as conversas eram superficiais, as vezes, não respondiam de acordo com a respota.
-
-Inteligência Articial para treinar o jogador principial, que calcula todas as probabildades do jogador ganhar, sem enconstrar no inimigo. Um exemplo é o jogo da cobrinha, e vamos supor que exista uma matriz 20 por 20, sabendo que existe paredes em volta, e que a cobrinha precisa alimentar da maça que aparece aleatoriamente no meio da tela, e suponha que esteja em modo diferente do padrão, onde vai existir obstaculos que vão aparecendo no meio do campo, que, ao encostar, o jogador perde e o que é o algoritmo faz é literalmente, jogar o jogo, onde vai existir pré-configurações, dando as primeiras instruções básicas do controle, onde pode se mover e quais teclas pode ser utilizado. Após toda a configuração, a Inteligência Artificial "joga" e entende os momentos em que o jogador encosta na parede, no obstáculo ou no próprio corpo, o jogo envia a mensagem de "game over" e nesse momento, o software deve entender que, se nesta mesma posição, no tempo exato de tempo e os controles em específicos de movimentos, ele vai perder, então na próxima rodada, ele vai evitar esta mesma jogada.
-Por que disso? Pois toda IA, deve ser treinada desde o início, pois deve saber como comportar em relação o que é certo e o que é o errado.
-
-
-
-<b><h3>Em andamento...</h3></b>
-
-
-  
-  
-  
   
   
   
