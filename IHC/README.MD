@@ -254,23 +254,23 @@ Arngren.net é um site norueguês fundado em 2002 pela Arngren Electronics, que 
 
 <h2>1.1 Conceito e Definição</h2>
 	
-	<p>A geração procedural em jogos refere-se à criação automática de conteúdo dentro do jogo, utilizando algoritmos e regras para gerar elementos como cenários, níveis, objetos e histórias. Ao contrário da criação manual de conteúdo, em que os desenvolvedores criam cada elemento individualmente, a geração procedural permite que o jogo crie conteúdo de forma dinâmica, oferecendo experiências únicas a cada partida.</p>
+	A geração procedural em jogos refere-se à criação automática de conteúdo dentro do jogo, utilizando algoritmos e regras para gerar elementos como cenários, níveis, objetos e histórias. Ao contrário da criação manual de conteúdo, em que os desenvolvedores criam cada elemento individualmente, a geração procedural permite que o jogo crie conteúdo de forma dinâmica, oferecendo experiências únicas a cada partida.
 
-<p>A geração procedural é baseada em algoritmos que são capazes de criar conteúdo de forma aleatória, porém controlada. Esses algoritmos podem ser programados para seguir regras específicas, como limites de tamanho, distribuição de elementos e restrições de jogabilidade. Dessa forma, a geração procedural permite uma ampla variedade de conteúdo, ao mesmo tempo em que garante que ele seja coerente e adequado ao jogo.</p>
+A geração procedural é baseada em algoritmos que são capazes de criar conteúdo de forma aleatória, porém controlada. Esses algoritmos podem ser programados para seguir regras específicas, como limites de tamanho, distribuição de elementos e restrições de jogabilidade. Dessa forma, a geração procedural permite uma ampla variedade de conteúdo, ao mesmo tempo em que garante que ele seja coerente e adequado ao jogo.
 
 
 <h2>1.2 Aplicações em Jogos</h2>
 
 
-<p>A geração procedural pode ser aplicada de várias maneiras em jogos, proporcionando experiências diferentes e emocionantes. Alguns exemplos notáveis de aplicações da geração procedural incluem:</p>
+A geração procedural pode ser aplicada de várias maneiras em jogos, proporcionando experiências diferentes e emocionantes. Alguns exemplos notáveis de aplicações da geração procedural incluem:
 
-<p><b>Geração de níveis:</b> Em jogos de plataforma, como o Super Mario, a geração procedural é usada para criar níveis de forma automática. Isso permite que cada partida ofereça um nível único, com desafios e obstáculos variados, garantindo que o jogador nunca se canse de jogar.</p>
+<b>Geração de níveis:</b> Em jogos de plataforma, como o Super Mario, a geração procedural é usada para criar níveis de forma automática. Isso permite que cada partida ofereça um nível único, com desafios e obstáculos variados, garantindo que o jogador nunca se canse de jogar.
 
-<p><b>Geração de cenários:</b> Jogos como o Minecraft utilizam a geração procedural para criar mundos infinitos compostos por blocos. Cada vez que um jogador inicia um novo jogo, um novo mundo é gerado, proporcionando uma experiência de exploração e descoberta constante.</p>
+<b>Geração de cenários:</b> Jogos como o Minecraft utilizam a geração procedural para criar mundos infinitos compostos por blocos. Cada vez que um jogador inicia um novo jogo, um novo mundo é gerado, proporcionando uma experiência de exploração e descoberta constante.
 
-<p><b>Geração de histórias:</b> Em jogos de RPG, a geração procedural pode ser usada para criar histórias e missões de forma dinâmica. Isso permite que cada partida conte uma história única, adaptada às escolhas e ações do jogador, tornando a experiência mais imersiva e personalizada.</p>
+<b>Geração de histórias:</b> Em jogos de RPG, a geração procedural pode ser usada para criar histórias e missões de forma dinâmica. Isso permite que cada partida conte uma história única, adaptada às escolhas e ações do jogador, tornando a experiência mais imersiva e personalizada.
 
-<p><b>Geração de personagens e inimigos:</b> Alguns jogos utilizam a geração procedural para criar personagens não jogáveis (NPCs) e inimigos. Isso possibilita a criação de uma variedade de personagens com características distintas, tornando o mundo do jogo mais vivo e diversificado.</p>
+<b>Geração de personagens e inimigos:</b> Alguns jogos utilizam a geração procedural para criar personagens não jogáveis (NPCs) e inimigos. Isso possibilita a criação de uma variedade de personagens com características distintas, tornando o mundo do jogo mais vivo e diversificado.
 
 
 <h2>2. Vantagens da Geração Procedural</h2>
