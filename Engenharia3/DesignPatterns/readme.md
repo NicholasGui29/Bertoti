@@ -13,14 +13,14 @@ Os padrões são baseado no site do Guru Manufacturing e em baixo, temos a tabel
 		<th>Exemplos de onde aplicar</th>
 	</tr>	</thead>	<tbody>	<tr>
 		<td>Strategy</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td>O principal problema que ele resolve é o Poliformismo</td>
-		<td>Quando queremos aplicar uma classe que herda</td>
+		<td>Repetição de códigos - "Bad smells"</td>
+		<td>É um padrão de design comportamental que permite definir uma família de algoritmos, colocar cada um deles em uma classe separada e tornar seus objetos intercambiáveis.</td>
+		<td>O principal problema que ele resolve é o Poliformismo.</td>
+		<td>Quando queremos aplicar uma classe que herda.</td>
 	</tr>
 	<tr>
 		<td>Observer</td>
-		<td>&nbsp;</td>
+		<td>Alto Acoplamento - Programar para classes concretas.</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
