@@ -22,7 +22,7 @@ Os padrões são baseado no site do Guru Manufacturing e em baixo, temos a tabel
 		<td>Observer</td>
 		<td>Alto Acoplamento - Programar para classes concretas.</td>
 		<td>&nbsp;</td>
-		<td>&nbsp;</td>
+		<td>Traz o baixo acoplamento, que é  quando tem pouco ou nada de dependência em relação aos outros componentes do sistema</td>
 		<td>&nbsp;</td>
 	</tr>
 	<tr>
