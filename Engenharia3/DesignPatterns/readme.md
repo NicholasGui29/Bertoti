@@ -21,9 +21,9 @@ Os padrões são baseado no site do Guru Manufacturing e em baixo, temos a tabel
 	<tr>
 		<td>Observer</td>
 		<td>Alto Acoplamento - Programar para classes concretas.</td>
-		<td>&nbsp;</td>
+		<td>É um padrão de design comportamental que permite definir um mecanismo de assinatura para notificar vários objetos sobre quaisquer eventos que aconteçam com o objeto que eles estão observando.</td></td>
 		<td>Traz o baixo acoplamento, que é  quando tem pouco ou nada de dependência em relação aos outros componentes do sistema</td>
-		<td>&nbsp;</td>
+		<td>Ajuda a implementar outros métodos diferentes(?)</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
