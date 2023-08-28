@@ -3,10 +3,9 @@
 Os padrões de design são usados para representar algumas das melhores práticas adaptadas por desenvolvedores de software orientados a objetos experientes. Um padrão de design sistematicamente nomeia, motiva e explica um design geral que aborda um problema de design recorrente em sistemas orientados a objetos. Descreve o problema, a solução, quando aplicar a solução e suas consequências. Ele também dá dicas de implementação e exemplos.
 
 Os padrões são baseado no site do Guru Manufacturing e em baixo, temos a tabela de comparação e reposótorio de cada padrão, onde encontra-se os diagramas e o código JAVA.
-<table class="demo">
-	<thead>
+<table>
+	<thead style="background-color: blue"> <!--não está funcionando -->
 	<tr>
-		<th><br></th>
 		<th>Nome do Padrão</th>
 		<th>Anti-Padrão</th>
 		<th>Definição do Padrão</th>
@@ -16,9 +15,8 @@ Os padrões são baseado no site do Guru Manufacturing e em baixo, temos a tabel
 		<td>Strategy</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
+		<td>O principal problema que ele resolve é o Poliformismo</td>
+		<td>Quando queremos aplicar uma classe que herda</td>
 	</tr>
 	<tr>
 		<td>Observer</td>
@@ -26,7 +24,6 @@ Os padrões são baseado no site do Guru Manufacturing e em baixo, temos a tabel
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
-		<td>&nbsp;</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
@@ -34,10 +31,8 @@ Os padrões são baseado no site do Guru Manufacturing e em baixo, temos a tabel
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
-		<td>&nbsp;</td>
 	</tr>
 	<tr>
-		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
