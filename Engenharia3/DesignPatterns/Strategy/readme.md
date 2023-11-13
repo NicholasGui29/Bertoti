@@ -2,7 +2,7 @@ Strategy
 
 Diagrama:
 
-<img src=diagramaStrategy.png>
+<img src=diagramaStrategy.jpg>
 
 
 Código:
