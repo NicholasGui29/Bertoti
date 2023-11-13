@@ -39,5 +39,12 @@ Os padrões são baseado no site do Guru Manufacturing e em baixo, temos a tabel
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 	</tr>
+	<tr>
+		<td>Singleton</td>
+		<td>&nbsp;</td>
+		<td>É um padrão de projeto criacional que permite a você garantir que uma classe tenha apenas uma instância, enquanto provê um ponto de acesso global para essa instância.</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
 	</tbody>
 </table>
