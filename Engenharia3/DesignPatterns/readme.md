@@ -26,16 +26,16 @@ Os padrões são baseado no site do Guru Manufacturing e em baixo, temos a tabel
 		<td>Ajuda a implementar outros métodos diferentes(?)</td>
 	</tr>
 	<tr>
+		<td>Composite</td>
 		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
+		<td>É um padrão de projeto estrutural que permite que você componha objetos em estruturas de árvores e então trabalhe com essas estruturas como se elas fossem objetos individuais.</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 	</tr>
 	<tr>
+		<td>Facade</td>
 		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
+		<td>É um padrão de projeto estrutural que fornece uma interface simplificada para uma biblioteca, um framework, ou qualquer conjunto complexo de classes.</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 	</tr>
