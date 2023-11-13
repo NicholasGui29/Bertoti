@@ -1,11 +1,11 @@
-Strategy
+<h2>Strategy</h2
 
-Diagrama:
+<b>Diagrama:</b>
 
 <img src=diagramaStrategy.jpg>
 
 
-Código:
+<b>Código:</b>
 package strategypattern;
 
 public class Pessoa {
