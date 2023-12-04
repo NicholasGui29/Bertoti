@@ -1,65 +1,100 @@
 import java.util.ArrayList;
 import java.util.List;
 
-// Component
-interface Shape {
-    void draw();
+// Interface Bolo
+interface Bolo {
+    void criaForma(int x, int y);
+    void criarDesenho();
 }
 
-// Leaf
-class Circle implements Shape {
-    @Override
-    public void draw() {
-        System.out.println("Desenhando um círculo");
-    }
-}
+// Entidade BoloRedondo
+class BoloRedondo implements Bolo {
+    private int x;
+    private int y;
+    private String arredondamento;
 
-// Leaf
-class Square implements Shape {
-    @Override
-    public void draw() {
-        System.out.println("Desenhando um quadrado");
-    }
-}
-
-// Composite
-class Group implements Shape {
-    private List<Shape> shapes = new ArrayList<>();
-
-    public void addShape(Shape shape) {
-        shapes.add(shape);
+    public BoloRedondo(int x, int y, String arredondamento) {
+        this.x = x;
+        this.y = y;
+        this.arredondamento = arredondamento;
     }
 
     @Override
-    public void draw() {
-        System.out.println("Desenhando um grupo:");
-        for (Shape shape : shapes) {
-            shape.draw();
+    public void criaForma(int x, int y) {
+        System.out.println("Criando forma do Bolo Redondo em (" + x + ", " + y + ")");
+    }
+
+    @Override
+    public void criarDesenho() {
+        System.out.println("Criando desenho do Bolo Redondo com arredondamento " + arredondamento);
+    }
+}
+
+// Entidade Círculo
+class Circulo implements Bolo {
+    private int x;
+    private int y;
+    private String arredondamento;
+
+    public Circulo(int x, int y, String arredondamento) {
+        this.x = x;
+        this.y = y;
+        this.arredondamento = arredondamento;
+    }
+
+    @Override
+    public void criaForma(int x, int y) {
+        System.out.println("Criando forma do Círculo em (" + x + ", " + y + ")");
+    }
+
+    @Override
+    public void criarDesenho() {
+        System.out.println("Criando desenho do Círculo com arredondamento " + arredondamento);
+    }
+}
+
+// Entidade IngredienteBolo (Composite)
+class IngredienteBolo implements Bolo {
+    private List<Bolo> children = new ArrayList<>();
+
+    @Override
+    public void criaForma(int x, int y) {
+        System.out.println("Criando forma do IngredienteBolo em (" + x + ", " + y + ")");
+        for (Bolo child : children) {
+            child.criaForma(x, y); // Pode ajustar a lógica conforme necessário
         }
     }
+
+    @Override
+    public void criarDesenho() {
+        System.out.println("Criando desenho do IngredienteBolo");
+        for (Bolo child : children) {
+            child.criarDesenho(); // Pode ajustar a lógica conforme necessário
+        }
+    }
+
+    public void adicionar(Bolo child) {
+        children.add(child);
+    }
+
+    public void remover(Bolo child) {
+        children.remove(child);
+    }
 }
 
-// Client
-public class CompositeExample {
+// Cliente
+public class Main {
     public static void main(String[] args) {
-        // Criando formas individuais
-        Circle circle = new Circle();
-        Square square = new Square();
+        // Criando instâncias de bolos e ingredientes
+        BoloRedondo boloRedondo = new BoloRedondo(10, 20, "Alto");
+        Circulo circulo = new Circulo(30, 40, "Baixo");
 
-        // Criando um grupo
-        Group group = new Group();
-        group.addShape(circle);
-        group.addShape(square);
+        IngredienteBolo ingredienteBolo = new IngredienteBolo();
+        ingredienteBolo.adicionar(boloRedondo);
+        ingredienteBolo.adicionar(circulo);
 
-        // Desenhando formas individuais
-        System.out.println("Desenhando formas individuais:");
-        circle.draw();
-        square.draw();
-
-        System.out.println();
-
-        // Desenhando o grupo
-        System.out.println("Desenhando o grupo:");
-        group.draw();
+        // Usando as instâncias
+        ingredienteBolo.criaForma(5, 5);
+        ingredienteBolo.criarDesenho();
     }
 }
