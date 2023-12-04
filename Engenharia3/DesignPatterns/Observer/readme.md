@@ -1,4 +1,3 @@
-<h2>Observer (em manutenção e com pendÊncia de correção (Não tem herença))</h2>
 
 Diagrama:
 <img src="diagramaObserver.jpg">
