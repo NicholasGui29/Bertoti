@@ -2,135 +2,135 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-// Strategy: Define a interface para as estratégias de processamento de leituras
-interface ReadingProcessingStrategy {
-    double processReading(double reading);
+// Estratégia: Define a interface para as estratégias de processamento de leituras
+interface EstrategiaProcessamentoLeitura {
+    double processarLeitura(double leitura);
 }
 
-// Strategy: Implementa uma estratégia específica de processamento (média)
-class AverageProcessingStrategy implements ReadingProcessingStrategy {
+// Estratégia: Implementa uma estratégia específica de processamento (média)
+class EstrategiaMedia implements EstrategiaProcessamentoLeitura {
     @Override
-    public double processReading(double reading) {
+    public double processarLeitura(double leitura) {
         // Simplesmente retorna a média da leitura
-        return reading;
+        return leitura;
     }
 }
 
-// Strategy: Outra estratégia de processamento (duplicar valor)
-class DuplicateProcessingStrategy implements ReadingProcessingStrategy {
+// Estratégia: Outra estratégia de processamento (duplicar valor)
+class EstrategiaDuplicar implements EstrategiaProcessamentoLeitura {
     @Override
-    public double processReading(double reading) {
+    public double processarLeitura(double leitura) {
         // Retorna o dobro da leitura
-        return reading * 2;
+        return leitura * 2;
     }
 }
 
-// Observer: Define a interface para os observadores (views)
-interface ReadingObserver {
-    void update(double reading);
+// Observador: Define a interface para os observadores (views)
+interface ObservadorLeitura {
+    void atualizar(double leitura);
 }
 
-// Observer: Implementa um observador específico (console)
-class ConsoleReadingObserver implements ReadingObserver {
+// Observador: Implementa um observador específico (console)
+class ObservadorConsole implements ObservadorLeitura {
     @Override
-    public void update(double reading) {
-        System.out.println("Nova leitura: " + reading);
+    public void atualizar(double leitura) {
+        System.out.println("Nova leitura: " + leitura);
     }
 }
 
-// Composite: Componente abstrato (leitor)
-interface ReadingComponent {
-    void add(ReadingComponent component);
+// Componente: Componente abstrato (leitor)
+interface LeituraComponente {
+    void adicionar(LeituraComponente componente);
 
-    void remove(ReadingComponent component);
+    void remover(LeituraComponente componente);
 
-    void notifyReadings();
+    void notificarLeituras();
 }
 
-// Composite: Implementa o componente composto (grupo de leituras)
-class ReadingGroup implements ReadingComponent {
-    private List<ReadingComponent> components = new ArrayList<>();
+// Componente: Implementa o componente composto (grupo de leituras)
+class GrupoLeituras implements LeituraComponente {
+    private List<LeituraComponente> componentes = new ArrayList<>();
 
     @Override
-    public void add(ReadingComponent component) {
-        components.add(component);
+    public void adicionar(LeituraComponente componente) {
+        componentes.add(componente);
     }
 
     @Override
-    public void remove(ReadingComponent component) {
-        components.remove(component);
+    public void remover(LeituraComponente componente) {
+        componentes.remove(componente);
     }
 
     @Override
-    public void notifyReadings() {
-        for (ReadingComponent component : components) {
-            component.notifyReadings();
+    public void notificarLeituras() {
+        for (LeituraComponente componente : componentes) {
+            componente.notificarLeituras();
         }
     }
 }
 
-// Composite: Implementa o componente folha (sensor)
-class Sensor implements ReadingComponent {
-    private List<ReadingObserver> observers = new ArrayList<>();
-    private ReadingProcessingStrategy processingStrategy;
+// Componente: Implementa o componente folha (sensor)
+class Sensor implements LeituraComponente {
+    private List<ObservadorLeitura> observadores = new ArrayList<>();
+    private EstrategiaProcessamentoLeitura estrategiaProcessamento;
 
-    public Sensor(ReadingProcessingStrategy processingStrategy) {
-        this.processingStrategy = processingStrategy;
+    public Sensor(EstrategiaProcessamentoLeitura estrategiaProcessamento) {
+        this.estrategiaProcessamento = estrategiaProcessamento;
     }
 
-    public void addObserver(ReadingObserver observer) {
-        observers.add(observer);
+    public void adicionarObservador(ObservadorLeitura observador) {
+        observadores.add(observador);
     }
 
-    public void removeObserver(ReadingObserver observer) {
-        observers.remove(observer);
+    public void removerObservador(ObservadorLeitura observador) {
+        observadores.remove(observador);
     }
 
-    private double generateReading() {
+    private double gerarLeitura() {
         // Simula a geração de uma leitura aleatória
         return new Random().nextDouble() * 100;
     }
 
     @Override
-    public void add(ReadingComponent component) {
+    public void adicionar(LeituraComponente componente) {
         // Não aplicável para folhas (sensores)
     }
 
     @Override
-    public void remove(ReadingComponent component) {
+    public void remover(LeituraComponente componente) {
         // Não aplicável para folhas (sensores)
     }
 
     @Override
-    public void notifyReadings() {
-        double reading = generateReading();
-        double processedReading = processingStrategy.processReading(reading);
-        System.out.println("Leitura original: " + reading + ", Leitura processada: " + processedReading);
+    public void notificarLeituras() {
+        double leitura = gerarLeitura();
+        double leituraProcessada = estrategiaProcessamento.processarLeitura(leitura);
+        System.out.println("Leitura original: " + leitura + ", Leitura processada: " + leituraProcessada);
 
-        for (ReadingObserver observer : observers) {
-            observer.update(processedReading);
+        for (ObservadorLeitura observador : observadores) {
+            observador.atualizar(leituraProcessada);
         }
     }
 }
 
 // Cliente: Aplicação principal usando o padrão MVC
-public class SensorMonitoringApp {
-    public static void main(String[] args) {
+public class AplicacaoMonitoramentoSensores {
+    public static void principal(String[] args) {
         // Configuração dos sensores com diferentes estratégias de processamento
-        Sensor sensor1 = new Sensor(new AverageProcessingStrategy());
-        Sensor sensor2 = new Sensor(new DuplicateProcessingStrategy());
+        Sensor sensor1 = new Sensor(new EstrategiaMedia());
+        Sensor sensor2 = new Sensor(new EstrategiaDuplicar());
 
         // Configuração dos observadores
-        ReadingObserver consoleObserver = new ConsoleReadingObserver();
-        sensor1.addObserver(consoleObserver);
-        sensor2.addObserver(consoleObserver);
+        ObservadorLeitura observadorConsole = new ObservadorConsole();
+        sensor1.adicionarObservador(observadorConsole);
+        sensor2.adicionarObservador(observadorConsole);
 
         // Configuração do grupo de leituras
-        ReadingGroup readingGroup = new ReadingGroup();
-        readingGroup.add(sensor1);
-        readingGroup.add(sensor2);
+        GrupoLeituras grupoLeituras = new GrupoLeituras();
+        grupoLeituras.adicionar(sensor1);
+        grupoLeituras.adicionar(sensor2);
 
         // Simulação de novas leituras
-        readingGroup.notifyReadings();
+        grupoLeituras.notificarLeituras();
     }
 }
