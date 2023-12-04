@@ -1,5 +1,6 @@
 
 Diagrama:
+<br>
 <img src="diagramaObserver.jpg">
 
 Código:
